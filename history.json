@@ -1,0 +1,142 @@
+[
+  {
+    "q": "Which of the following Indus Valley sites is famous for its ancient dockyard?",
+    "opts": ["Harappa", "Mohenjodaro", "Lothal", "Kalibangan"],
+    "ans": 2,
+    "exp": "Lothal (located in Gujarat near the Bhogava river) had a massive brick-lined dockyard used for maritime trade."
+  },
+  {
+    "q": "The 'Great Bath' of the Indus Valley Civilization was discovered at:",
+    "opts": ["Harappa", "Mohenjodaro", "Dholavira", "Rakhigarhi"],
+    "ans": 1,
+    "exp": "The Great Bath, a large public water tank likely used for ritual bathing, was excavated at Mohenjodaro."
+  },
+  {
+    "q": "The famous 'Gayatri Mantra' is found in which Mandala of the Rig Veda?",
+    "opts": ["First Mandala", "Third Mandala", "Seventh Mandala", "Tenth Mandala"],
+    "ans": 1,
+    "exp": "The Gayatri Mantra, dedicated to Savitri, is composed by Vishwamitra and appears in the 3rd Mandala of the Rig Veda."
+  },
+  {
+    "q": "Where did Gautama Buddha deliver his first sermon (Dharmachakrapravartana)?",
+    "opts": ["Bodh Gaya", "Sarnath", "Kushinagar", "Lumbini"],
+    "ans": 1,
+    "exp": "Buddha delivered his first sermon to five ascetics at the Deer Park (Isipatana) in Sarnath, near Varanasi."
+  },
+  {
+    "q": "The Fourth Buddhist Council was held in Kashmir under the patronage of which ruler?",
+    "opts": ["Ashoka", "Kalasoka", "Kanishka", "Harshavardhana"],
+    "ans": 2,
+    "exp": "The Fourth Buddhist Council was held at Kundalvana in Kashmir under Kushan emperor Kanishka, presided over by Vasumitra."
+  },
+  {
+    "q": "Who deciphered the Brahmi and Kharosthi scripts of Ashokan inscriptions in 1837?",
+    "opts": ["Alexander Cunningham", "James Prinsep", "William Jones", "John Marshall"],
+    "ans": 1,
+    "exp": "James Prinsep, an officer of the East India Company mint, deciphered the Brahmi and Kharosthi scripts in 1837."
+  },
+  {
+    "q": "Which Ashokan Rock Edict describes the horrors of the Kalinga War and Ashoka's remorse?",
+    "opts": ["Major Rock Edict I", "Major Rock Edict VII", "Major Rock Edict XIII", "Pillar Edict VII"],
+    "ans": 2,
+    "exp": "Major Rock Edict XIII records Ashoka's victory over Kalinga and his subsequent turn towards Dhamma."
+  },
+  {
+    "q": "Megasthenes, the Greek ambassador who wrote 'Indica', visited the court of:",
+    "opts": ["Chandragupta Maurya", "Bindusara", "Ashoka", "Chandragupta II"],
+    "ans": 0,
+    "exp": "Megasthenes was sent by Seleucus I Nicator as an ambassador to the Mauryan court of Chandragupta Maurya at Pataliputra."
+  },
+  {
+    "q": "The 'Prayag Prashasti' (Allahabad Pillar Inscription) celebrating Samudragupta's conquests was composed by:",
+    "opts": ["Kalidasa", "Harishena", "Banabhatta", "Ravikirti"],
+    "ans": 1,
+    "exp": "Harishena, the court poet and minister of Samudragupta, composed the Prayag Prashasti in classical Sanskrit."
+  },
+  {
+    "q": "The Chinese Buddhist pilgrim Fa-Hien (Faxian) visited India during the reign of:",
+    "opts": ["Samudragupta", "Chandragupta II", "Kumaragupta I", "Harshavardhana"],
+    "ans": 1,
+    "exp": "Fa-Hien visited India between 399 and 414 CE during the reign of Gupta emperor Chandragupta II (Vikramaditya)."
+  },
+  {
+    "q": "The Aihole Inscription, which records the defeat of Harshavardhana by Pulakeshin II, was composed by:",
+    "opts": ["Ravikirti", "Dandin", "Bharavi", "Bilhana"],
+    "ans": 0,
+    "exp": "Ravikirti, the Jain court poet of Chalukya king Pulakeshin II, composed the Aihole Prashasti."
+  },
+  {
+    "q": "The famous Brihadeeswarar Temple at Thanjavur was built by which Chola ruler?",
+    "opts": ["Vijayalaya Chola", "Rajaraja I", "Rajendra I", "Kulottunga I"],
+    "ans": 1,
+    "exp": "Rajaraja Chola I completed the Brihadeeswarar Temple (Rajarajeshwaram) in 1010 CE; it is a UNESCO World Heritage Site."
+  },
+  {
+    "q": "The Chola local self-government (village assemblies like Sabha and Ur) is famously detailed in the inscriptions of:",
+    "opts": ["Uttaramerur", "Kanchipuram", "Madurai", "Badami"],
+    "ans": 0,
+    "exp": "The Uttaramerur inscriptions of Parantaka I provide detailed rules for the election and functioning of village committees (Variyams)."
+  },
+  {
+    "q": "Who among the following Delhi Sultans introduced the market control policy and the 'Dagh' (branding of horses) system?",
+    "opts": ["Iltutmish", "Ghiyasuddin Balban", "Alauddin Khalji", "Muhammad bin Tughlaq"],
+    "ans": 2,
+    "exp": "Alauddin Khalji introduced strict market price regulations, Dagh (horse branding), and Chehra (descriptive roll of soldiers)."
+  },
+  {
+    "q": "The 'Iqta' system of land revenue assignment was institutionalized in the Delhi Sultanate by:",
+    "opts": ["Qutb-ud-din Aibak", "Iltutmish", "Balban", "Firoz Shah Tughlaq"],
+    "ans": 1,
+    "exp": "Shams-ud-din Iltutmish institutionalized the Iqta system, dividing the empire into tracts assigned to officers (Iqtadars) in lieu of salary."
+  },
+  {
+    "q": "The Moroccan traveler Ibn Battuta visited India during the reign of which Delhi Sultan?",
+    "opts": ["Alauddin Khalji", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Sikandar Lodi"],
+    "ans": 1,
+    "exp": "Ibn Battuta arrived in India in 1333 CE during Muhammad bin Tughlaq's reign and was appointed Qazi of Delhi."
+  },
+  {
+    "q": "The Vijayanagara Empire was founded in 1336 CE on the banks of the Tungabhadra river by:",
+    "opts": ["Krishnadevaraya", "Harihara I and Bukka Raya I", "Deva Raya II", "Saluva Narasimha"],
+    "ans": 1,
+    "exp": "Harihara I and Bukka Raya I of the Sangama dynasty founded the Vijayanagara Empire in 1336 CE."
+  },
+  {
+    "q": "Who authored the famous Telugu work 'Amuktamalyada'?",
+    "opts": ["Tenali Ramakrishna", "Allasani Peddana", "Krishnadevaraya", "Nannaya"],
+    "ans": 2,
+    "exp": "Vijayanagara emperor Krishnadevaraya (Tuluva dynasty) authored Amuktamalyada in Telugu and Jambavati Kalyanam in Sanskrit."
+  },
+  {
+    "q": "The First Battle of Panipat (1526), which established Mughal rule in India, was fought between Babur and:",
+    "opts": ["Rana Sanga", "Ibrahim Lodi", "Sher Shah Suri", "Hemu"],
+    "ans": 1,
+    "exp": "Babur defeated Ibrahim Lodi in the First Battle of Panipat in April 1526 using artillery and the Tulughma tactic."
+  },
+  {
+    "q": "The 'Dahsala' (Zabti) land revenue system under Emperor Akbar was formulated by:",
+    "opts": ["Birbal", "Abul Fazl", "Raja Todar Mal", "Man Singh"],
+    "ans": 2,
+    "exp": "Raja Todar Mal introduced the Ain-i-Dahsala system in 1580, fixing revenue based on the average produce and prices of the preceding ten years."
+  },
+  {
+    "q": "In the Mughal Mansabdari system, what did the terms 'Zat' and 'Sawar' denote respectively?",
+    "opts": ["Land area and tax rate", "Personal rank/salary and number of cavalrymen to maintain", "Infantry count and artillery count", "Provincial title and judicial power"],
+    "ans": 1,
+    "exp": "'Zat' fixed the personal status and salary of a Mansabdar, while 'Sawar' indicated the number of cavalrymen he was required to maintain."
+  },
+  {
+    "q": "Who among the following Bhakti saints was a disciple of Ramananda and composed verses included in the Guru Granth Sahib?",
+    "opts": ["Chaitanya Mahaprabhu", "Kabir", "Vallabhacharya", "Basavanna"],
+    "ans": 1,
+    "exp": "Kabir, a Nirguna Bhakti saint and disciple of Ramananda, criticized ritualism; many of his verses are preserved in the Guru Granth Sahib."
+  },
+  {
+    "q": "The Treaty of Purandar (1665) was signed between Chhatrapati Shivaji Maharaj and:",
+    "opts": ["Shaista Khan", "Mirza Raja Jai Singh I", "Afzal Khan", "Aurangzeb directly"],
+    "ans": 1,
+    "exp": "The Treaty of Purandar was signed on 11 June 1665 between Shivaji and Mughal commander Mirza Raja Jai Singh I."
+  },
+  {
+    "q": "In the Battle of Plassey (1757), the British East India Company forces were led by:",
+    "opts": ["Hector Munro", "Robert Clive", "
