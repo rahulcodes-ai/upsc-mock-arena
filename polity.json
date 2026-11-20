@@ -1,0 +1,302 @@
+[
+  {
+    "q": "Which of the following words were added to the Preamble by the 42nd Constitutional Amendment Act, 1976?",
+    "opts": ["Socialist, Secular, Integrity", "Democratic, Republic, Liberty", "Justice, Equality, Fraternity", "Sovereign, Secular, Federal"],
+    "ans": 0,
+    "exp": "The 42nd Amendment Act, 1976 added three words to the Preamble: Socialist, Secular, and Integrity."
+  },
+  {
+    "q": "In which landmark case did the Supreme Court propound the 'Basic Structure' doctrine of the Indian Constitution?",
+    "opts": ["Golaknath Case (1967)", "Kesavananda Bharati Case (1973)", "Minerva Mills Case (1980)", "Berubari Union Case (1960)"],
+    "ans": 1,
+    "exp": "In Kesavananda Bharati v. State of Kerala (1973), a 13-judge bench held that Parliament can amend the Constitution but cannot alter its Basic Structure."
+  },
+  {
+    "q": "Who has the final authority to decide whether a Bill is a Money Bill or not under Article 110?",
+    "opts": ["President of India", "Speaker of the Lok Sabha", "Union Finance Minister", "Chairman of the Rajya Sabha"],
+    "ans": 1,
+    "exp": "Under Article 110(3), the decision of the Speaker of the Lok Sabha on whether a Bill is a Money Bill is final."
+  },
+  {
+    "q": "Right to Privacy is protected as an intrinsic part of which Article of the Indian Constitution?",
+    "opts": ["Article 14", "Article 19", "Article 21", "Article 25"],
+    "ans": 2,
+    "exp": "In Justice K.S. Puttaswamy v. Union of India (2017), a 9-judge bench unanimously held Right to Privacy as a Fundamental Right under Article 21."
+  },
+  {
+    "q": "Which Schedule of the Indian Constitution contains provisions regarding the Anti-Defection Law?",
+    "opts": ["Eighth Schedule", "Ninth Schedule", "Tenth Schedule", "Eleventh Schedule"],
+    "ans": 2,
+    "exp": "The Tenth Schedule was inserted by the 52nd Constitutional Amendment Act, 1985 to curb political defections."
+  },
+  {
+    "q": "Fundamental Duties were added to the Constitution on the recommendation of which committee?",
+    "opts": ["Swaran Singh Committee", "Sarkaria Commission", "Punchhi Commission", "Balwant Rai Mehta Committee"],
+    "ans": 0,
+    "exp": "Based on the Swaran Singh Committee recommendations, Part IV-A (Article 51A) was added by the 42nd Amendment Act, 1976."
+  },
+  {
+    "q": "Which Article empowers the President to promulgate Ordinances during the recess of Parliament?",
+    "opts": ["Article 72", "Article 123", "Article 143", "Article 213"],
+    "ans": 1,
+    "exp": "Article 123 empowers the President to promulgate ordinances; Article 213 grants a similar power to the Governor."
+  },
+  {
+    "q": "A joint sitting of both Houses of Parliament under Article 108 is presided over by:",
+    "opts": ["President of India", "Vice-President of India", "Speaker of the Lok Sabha", "Prime Minister"],
+    "ans": 2,
+    "exp": "Under Article 118(4), the Speaker of the Lok Sabha presides over a joint sitting of both Houses."
+  },
+  {
+    "q": "Under which Article of the Constitution is the Finance Commission constituted?",
+    "opts": ["Article 263", "Article 275", "Article 280", "Article 324"],
+    "ans": 2,
+    "exp": "Article 280 provides for a Finance Commission constituted by the President every five years to recommend tax devolution."
+  },
+  {
+    "q": "Which Constitutional Amendment lowered the voting age from 21 years to 18 years?",
+    "opts": ["42nd Amendment", "44th Amendment", "61st Amendment", "73rd Amendment"],
+    "ans": 2,
+    "exp": "The 61st Constitutional Amendment Act, 1988 amended Article 326 to lower the voting age from 21 to 18 years."
+  },
+  {
+    "q": "Which writ is issued by a higher court to a lower court or tribunal to prevent it from exceeding its jurisdiction?",
+    "opts": ["Habeas Corpus", "Mandamus", "Prohibition", "Quo Warranto"],
+    "ans": 2,
+    "exp": "Prohibition is issued by a higher court to a lower court or tribunal to forbid it from continuing proceedings beyond its jurisdiction."
+  },
+  {
+    "q": "The Ninth Schedule was added to the Indian Constitution by which Constitutional Amendment?",
+    "opts": ["1st Amendment Act, 1951", "7th Amendment Act, 1956", "24th Amendment Act, 1971", "42nd Amendment Act, 1976"],
+    "ans": 0,
+    "exp": "The 1st Amendment Act, 1951 added the Ninth Schedule and Article 31B to protect land reform laws from judicial challenge."
+  },
+  {
+    "q": "Which Article directs the State to take steps to separate the judiciary from the executive in the public services of the State?",
+    "opts": ["Article 40", "Article 44", "Article 48", "Article 50"],
+    "ans": 3,
+    "exp": "Article 50 (Directive Principles of State Policy) directs the State to separate the judiciary from the executive."
+  },
+  {
+    "q": "Under Article 359, which two Fundamental Rights cannot be suspended even during a National Emergency?",
+    "opts": ["Articles 14 and 19", "Articles 19 and 21", "Articles 20 and 21", "Articles 21 and 22"],
+    "ans": 2,
+    "exp": "By the 44th Amendment Act, 1978, enforcement of Articles 20 and 21 can never be suspended during an Emergency."
+  },
+  {
+    "q": "The maximum period for which the Rajya Sabha can delay a Money Bill is:",
+    "opts": ["14 days", "30 days", "60 days", "6 months"],
+    "ans": 0,
+    "exp": "Under Article 109, the Rajya Sabha must return a Money Bill within 14 days; otherwise it is deemed passed by both Houses."
+  },
+  {
+    "q": "Which Constitutional Amendment Act inserted Article 21A making elementary education a Fundamental Right?",
+    "opts": ["84th Amendment Act", "86th Amendment Act", "91st Amendment Act", "97th Amendment Act"],
+    "ans": 1,
+    "exp": "The 86th Amendment Act, 2002 inserted Article 21A (free and compulsory education for children aged 6 to 14 years)."
+  },
+  {
+    "q": "The total number of Ministers, including the Prime Minister, in the Council of Ministers shall not exceed what percentage of the total strength of the Lok Sabha?",
+    "opts": ["10%", "12%", "15%", "20%"],
+    "ans": 2,
+    "exp": "The 91st Amendment Act, 2003 capped the Council of Ministers at 15% of the total strength of the Lok Sabha (Article 75(1A))."
+  },
+  {
+    "q": "Who acts as the 'Guardian of the Public Purse' and audits the accounts of both the Union and the States?",
+    "opts": ["Attorney General of India", "Comptroller and Auditor General (CAG)", "Finance Secretary", "Public Accounts Committee Chairman"],
+    "ans": 1,
+    "exp": "Under Article 148–151, the CAG audits receipts and expenditure of the Union and State governments."
+  },
+  {
+    "q": "The Attorney General of India has the right to speak and participate in proceedings of Parliament under which Article?",
+    "opts": ["Article 76", "Article 88", "Article 105", "Article 143"],
+    "ans": 1,
+    "exp": "While Article 76 establishes the office of the Attorney General, Article 88 grants the right to speak and take part in proceedings of both Houses without voting."
+  },
+  {
+    "q": "Which Article provides for the establishment of an Inter-State Council by the President?",
+    "opts": ["Article 262", "Article 263", "Article 265", "Article 266"],
+    "ans": 1,
+    "exp": "Article 263 empowers the President to establish an Inter-State Council to promote coordination between the Centre and States."
+  },
+  {
+    "q": "Which of the following is NOT a Constitutional Body?",
+    "opts": ["Election Commission of India", "Union Public Service Commission", "NITI Aayog", "National Commission for Scheduled Castes"],
+    "ans": 2,
+    "exp": "NITI Aayog is an extra-constitutional (executive) body created by a Cabinet resolution in 2015, unlike ECI (Art 324), UPSC (Art 315), and NCSC (Art 338)."
+  },
+  {
+    "q": "The procedure for the Impeachment of the President of India is laid down in which Article?",
+    "opts": ["Article 56", "Article 60", "Article 61", "Article 62"],
+    "ans": 2,
+    "exp": "Article 61 outlines the quasi-judicial procedure for impeaching the President for 'violation of the Constitution'."
+  },
+  {
+    "q": "Which Schedule of the Constitution deals with the administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram?",
+    "opts": ["Fourth Schedule", "Fifth Schedule", "Sixth Schedule", "Seventh Schedule"],
+    "ans": 2,
+    "exp": "The Sixth Schedule provides for Autonomous District Councils in Assam, Meghalaya, Tripura, and Mizoram (AMTM)."
+  },
+  {
+    "q": "Under which Article can the Supreme Court issue writs for the enforcement of Fundamental Rights?",
+    "opts": ["Article 32", "Article 136", "Article 142", "Article 226"],
+    "ans": 0,
+    "exp": "Article 32 empowers the Supreme Court to issue writs for Fundamental Rights, while Article 226 empowers High Courts."
+  },
+  {
+    "q": "Which Article grants the President of India the power to consult the Supreme Court on questions of law or fact of public importance?",
+    "opts": ["Article 131", "Article 137", "Article 142", "Article 143"],
+    "ans": 3,
+    "exp": "Article 143 confers Advisory Jurisdiction on the Supreme Court when the President seeks its opinion."
+  },
+  {
+    "q": "The concept of 'Directive Principles of State Policy' in the Indian Constitution was borrowed from:",
+    "opts": ["British Constitution", "US Constitution", "Irish Constitution", "Canadian Constitution"],
+    "ans": 2,
+    "exp": "India borrowed Directive Principles of State Policy (Part IV) from the Constitution of Ireland (1937)."
+  },
+  {
+    "q": "Which Constitutional Amendment Act introduced the Goods and Services Tax (GST) Council under Article 279A?",
+    "opts": ["99th Amendment Act", "100th Amendment Act", "101st Amendment Act", "102nd Amendment Act"],
+    "ans": 2,
+    "exp": "The 101st Amendment Act, 2016 introduced GST and inserted Article 279A establishing the GST Council."
+  },
+  {
+    "q": "The 'Procedure Established by Law' in Article 21 was originally borrowed from the Constitution of:",
+    "opts": ["United Kingdom", "United States", "Japan", "Germany"],
+    "ans": 2,
+    "exp": "The phrase 'procedure established by law' was borrowed from the Japanese Constitution (later expanded to include 'due process' in Maneka Gandhi, 1978)."
+  },
+  {
+    "q": "Which Parliamentary Committee has NO members from the Rajya Sabha?",
+    "opts": ["Public Accounts Committee", "Estimates Committee", "Committee on Public Undertakings", "Business Advisory Committee"],
+    "ans": 1,
+    "exp": "The Estimates Committee consists of 30 members drawn exclusively from the Lok Sabha."
+  },
+  {
+    "q": "Who among the following participates in the election of the President of India but NOT in the impeachment of the President?",
+    "opts": ["Elected members of Lok Sabha", "Elected members of Rajya Sabha", "Elected members of State Legislative Assemblies", "Nominated members of Parliament"],
+    "ans": 2,
+    "exp": "Elected MLAs of States and UTs of Delhi & Puducherry vote in Presidential elections (Art 54) but do not participate in impeachment (Art 61)."
+  },
+  {
+    "q": "Which Article of the Indian Constitution abolishes 'Untouchability' and forbids its practice in any form?",
+    "opts": ["Article 15", "Article 16", "Article 17", "Article 18"],
+    "ans": 2,
+    "exp": "Article 17 abolishes untouchability and makes the enforcement of any disability arising out of it a punishable offence."
+  },
+  {
+    "q": "The 73rd Constitutional Amendment Act, 1992 added which Part and Schedule to the Constitution?",
+    "opts": ["Part IX and Eleventh Schedule", "Part IX-A and Twelfth Schedule", "Part IX-B and Tenth Schedule", "Part X and Ninth Schedule"],
+    "ans": 0,
+    "exp": "The 73rd Amendment Act gave constitutional status to Panchayati Raj Institutions by adding Part IX and the 11th Schedule (29 subjects)."
+  },
+  {
+    "q": "Who decides on questions of disqualification of Members of Parliament on grounds OTHER than defection?",
+    "opts": ["Speaker of Lok Sabha", "Supreme Court of India", "President in accordance with the opinion of the Election Commission", "Parliamentary Ethics Committee"],
+    "ans": 2,
+    "exp": "Under Article 103, the President's decision is final, and the President must act according to the opinion of the Election Commission."
+  },
+  {
+    "q": "The power to create or abolish a Legislative Council (Vidhan Parishad) in a State rests with:",
+    "opts": ["Governor of the State", "President of India", "Parliament by simple majority on a State Assembly resolution", "Election Commission of India"],
+    "ans": 2,
+    "exp": "Under Article 169, Parliament may create or abolish a State Legislative Council by simple majority after the State Assembly passes a special-majority resolution."
+  },
+  {
+    "q": "Which Article empowers the Supreme Court to pass any decree or order necessary for doing 'complete justice'?",
+    "opts": ["Article 131", "Article 136", "Article 141", "Article 142"],
+    "ans": 3,
+    "exp": "Article 142 grants extraordinary power to the Supreme Court to pass decrees or orders for doing complete justice in any cause pending before it."
+  },
+  {
+    "q": "A proclamation of National Emergency under Article 352 must be approved by both Houses of Parliament within:",
+    "opts": ["14 days", "1 month", "2 months", "6 months"],
+    "ans": 1,
+    "exp": "After the 44th Amendment Act, 1978, a National Emergency proclamation must be approved by both Houses by special majority within 1 month."
+  },
+  {
+    "q": "Which of the following subjects falls under the 'Concurrent List' of the Seventh Schedule?",
+    "opts": ["Public Health and Sanitation", "Banking and Insurance", "Education and Forests", "Police and Public Order"],
+    "ans": 2,
+    "exp": "Education, Forests, Weights & Measures, Protection of Wild Animals, and Administration of Justice were moved from State List to Concurrent List by the 42nd Amendment."
+  },
+  {
+    "q": "The 'Zero Hour' in the Indian parliamentary system is:",
+    "opts": ["Mentioned in Article 118 of the Constitution", "Defined in the Rules of Procedure of Lok Sabha", "An Indian parliamentary innovation not mentioned in the Rules of Procedure", "The last hour of every parliamentary sitting"],
+    "ans": 2,
+    "exp": "Zero Hour is an informal Indian innovation (since 1962) immediately following Question Hour to raise urgent matters without prior notice."
+  },
+  {
+    "q": "Which Article provides that no tax shall be levied or collected except by authority of law?",
+    "opts": ["Article 265", "Article 266", "Article 267", "Article 268"],
+    "ans": 0,
+    "exp": "Article 265 states that 'No tax shall be levied or collected except by authority of law'."
+  },
+  {
+    "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
+    "opts": ["President of India", "Vice-President of India", "Senior-most member of Rajya Sabha", "Prime Minister of India"],
+    "ans": 1,
+    "exp": "Under Article 64 and Article 89, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha)."
+  },
+  {
+    "q": "Which Constitutional Amendment Act granted constitutional status to the National Commission for Backward Classes (NCBC)?",
+    "opts": ["100th Amendment Act", "101st Amendment Act", "102nd Amendment Act", "103rd Amendment Act"],
+    "ans": 2,
+    "exp": "The 102nd Amendment Act, 2018 inserted Article 338B granting constitutional status to the NCBC."
+  },
+  {
+    "q": "The 'Contingency Fund of India' is held by whom on behalf of the President?",
+    "opts": ["Reserve Bank of India Governor", "Union Finance Secretary", "Comptroller and Auditor General", "Speaker of the Lok Sabha"],
+    "ans": 1,
+    "exp": "Established under Article 267, the Contingency Fund of India is held by the Finance Secretary on behalf of the President to meet unforeseen expenditure."
+  },
+  {
+    "q": "In which case did the Supreme Court rule that judicial review of Presidential proclamation under Article 356 (President's Rule) is permissible?",
+    "opts": ["A.K. Gopalan Case", "S.R. Bommai Case (1994)", "Indra Sawhney Case (1992)", "Shankari Prasad Case"],
+    "ans": 1,
+    "exp": "In S.R. Bommai v. Union of India (1994), the Supreme Court held that imposition of President's Rule under Article 356 is subject to judicial review and floor test is mandatory."
+  },
+  {
+    "q": "Which Article of the Indian Constitution deals with the Uniform Civil Code (UCC) for citizens?",
+    "opts": ["Article 40", "Article 43", "Article 44", "Article 45"],
+    "ans": 2,
+    "exp": "Article 44 (Part IV, DPSP) states that the State shall endeavour to secure for citizens a Uniform Civil Code throughout the territory of India."
+  },
+  {
+    "q": "What is the minimum quorum required to constitute a meeting of either House of Parliament?",
+    "opts": ["One-fifth of total membership", "One-tenth of total membership", "One-fourth of total membership", "50 members fixed"],
+    "ans": 1,
+    "exp": "Under Article 100(3), the quorum to constitute a sitting of either House is one-tenth of the total number of members of the House (including the presiding officer)."
+  },
+  {
+    "q": "Which Fundamental Rights are available ONLY to citizens of India and NOT to foreigners?",
+    "opts": ["Articles 14, 20, 21, 21A", "Articles 15, 16, 19, 29, 30", "Articles 14, 15, 16, 17", "Articles 23, 24, 25, 28"],
+    "ans": 1,
+    "exp": "Articles 15, 16, 19, 29, and 30 are exclusively available to Indian citizens; Articles 14, 20, 21, 21A, 22–28 apply to both citizens and foreigners."
+  },
+  {
+    "q": "Who appoints the Chief Election Commissioner (CEC) of India?",
+    "opts": ["Chief Justice of India", "President of India", "Speaker of Lok Sabha", "Parliament by special majority"],
+    "ans": 1,
+    "exp": "Under Article 324(2), the Chief Election Commissioner and other Election Commissioners are appointed by the President of India."
+  },
+  {
+    "q": "Under which Article can Parliament legislate on a matter in the State List in the 'national interest' if the Rajya Sabha passes a resolution?",
+    "opts": ["Article 249", "Article 250", "Article 252", "Article 253"],
+    "ans": 0,
+    "exp": "Under Article 249, if the Rajya Sabha passes a resolution by two-thirds of members present and voting, Parliament can legislate on a State List subject in the national interest."
+  },
+  {
+    "q": "Which Amendment Act is known as the 'Mini-Constitution' due to the extensive changes it made?",
+    "opts": ["24th Amendment Act, 1971", "42nd Amendment Act, 1976", "44th Amendment Act, 1978", "52nd Amendment Act, 1985"],
+    "ans": 1,
+    "exp": "The 42nd Constitutional Amendment Act, 1976 enacted during the Emergency introduced sweeping changes across the Preamble, DPSPs, Fundamental Duties, and judiciary."
+  },
+  {
+    "q": "The right to property was removed from the list of Fundamental Rights and made a legal right under Article 300A by which Amendment?",
+    "opts": ["42nd Amendment Act, 1976", "44th Amendment Act, 1978", "52nd Amendment Act, 1985", "61st Amendment Act, 1988"],
+    "ans": 1,
+    "exp": "The 44th Amendment Act, 1978 repealed Article 31 and Article 19(1)(f) and inserted Article 300A in Part XII."
+  }
+]
