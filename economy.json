@@ -1,0 +1,145 @@
+[
+  {
+    "q": "In the context of Indian monetary policy, what is 'Repo Rate'?",
+    "opts": [
+      "Rate at which commercial banks lend to corporate borrowers",
+      "Rate at which the RBI lends short-term funds to commercial banks against securities",
+      "Rate at which the RBI borrows short-term funds from commercial banks",
+      "Minimum percentage of deposits banks must hold in cash with the RBI"
+    ],
+    "ans": 1,
+    "exp": "Repo (Repurchase Option) rate is the policy rate at which the RBI injects short-term liquidity into commercial banks against government securities."
+  },
+  {
+    "q": "What happens to money supply in the economy if the Reserve Bank of India (RBI) increases the Cash Reserve Ratio (CRR)?",
+    "opts": [
+      "Money supply increases",
+      "Money supply decreases",
+      "Money supply remains unchanged",
+      "Government fiscal deficit decreases immediately"
+    ],
+    "ans": 1,
+    "exp": "A higher CRR forces commercial banks to park a larger share of their Net Demand and Time Liabilities (NDTL) with the RBI, reducing funds available for lending."
+  },
+  {
+    "q": "Which of the following is NOT included in the calculation of India's Gross Domestic Product (GDP)?",
+    "opts": [
+      "Value of final goods produced by a foreign company inside India",
+      "Salaries paid to government employees",
+      "Unpaid household chores performed by family members",
+      "Construction of new residential houses"
+    ],
+    "ans": 2,
+    "exp": "GDP measures market value of all final goods and services produced within domestic territory; non-market unpaid household services are excluded."
+  },
+  {
+    "q": "The 'Monetary Policy Committee (MPC)' in India, which fixes the benchmark policy interest rate, consists of how many members?",
+    "opts": ["4 members", "5 members", "6 members", "8 members"],
+    "ans": 2,
+    "exp": "Constituted under Section 45ZB of the RBI Act, 1934, the MPC has 6 members: 3 from the RBI (including the Governor as ex-officio Chairperson) and 3 external members appointed by the Government."
+  },
+  {
+    "q": "What does 'Primary Deficit' equal in the Union Budget?",
+    "opts": [
+      "Revenue Deficit minus Grants for creation of capital assets",
+      "Fiscal Deficit minus Interest Payments",
+      "Total Expenditure minus Total Receipts",
+      "Capital Expenditure minus Capital Receipts"
+    ],
+    "ans": 1,
+    "exp": "Primary Deficit = Fiscal Deficit − Interest Payments. It indicates the borrowing requirement of the government excluding interest obligations on past debt."
+  },
+  {
+    "q": "Which of the following is a component of 'Capital Expenditure' in the Union Budget?",
+    "opts": [
+      "Payment of salaries and pensions",
+      "Interest payments on public debt",
+      "Subsidies on food and fertilizers",
+      "Expenditure on building highways and railways"
+    ],
+    "ans": 3,
+    "exp": "Capital expenditure creates physical or financial assets or reduces liabilities (e.g., infrastructure, loans to states), whereas salaries, interest, and subsidies are revenue expenditure."
+  },
+  {
+    "q": "The 'Phillips Curve' illustrates an inverse relationship between:",
+    "opts": [
+      "Tax rates and tax revenue",
+      "Inflation and unemployment",
+      "Economic growth and environmental degradation",
+      "Exchange rate and trade balance"
+    ],
+    "ans": 1,
+    "exp": "The Phillips Curve shows that in the short run, lower unemployment is generally accompanied by higher inflation, and vice versa."
+  },
+  {
+    "q": "The 'Laffer Curve' shows the relationship between:",
+    "opts": [
+      "Income inequality and per capita income",
+      "Tax rates and total tax revenue collected by the government",
+      "Money supply and interest rates",
+      "Inflation and GDP growth"
+    ],
+    "ans": 1,
+    "exp": "The Laffer Curve illustrates that beyond an optimal tax rate, further increases in tax rates can reduce total tax revenue by discouraging work and investment."
+  },
+  {
+    "q": "In economics, the 'Gini Coefficient' is used to measure:",
+    "opts": [
+      "Rate of inflation",
+      "Income or wealth inequality",
+      "External debt sustainability",
+      "Human development"
+    ],
+    "ans": 1,
+    "exp": "Derived from the Lorenz Curve, the Gini Coefficient ranges from 0 (perfect equality) to 1 (perfect inequality)."
+  },
+  {
+    "q": "Which of the following is included in the 'Current Account' of India's Balance of Payments (BoP)?",
+    "opts": [
+      "Foreign Direct Investment (FDI)",
+      "Foreign Portfolio Investment (FPI)",
+      "External Commercial Borrowings (ECB)",
+      "Remittances sent by Indians working abroad"
+    ],
+    "ans": 3,
+    "exp": "The Current Account records trade in goods, trade in services, investment income, and current transfers (like remittances). FDI, FPI, and ECBs are part of the Capital Account."
+  },
+  {
+    "q": "What is 'Devaluation' of a currency?",
+    "opts": [
+      "Market-driven fall in currency value under a floating exchange rate",
+      "Deliberate downward adjustment of a currency's value by the government/central bank under a fixed exchange rate",
+      "Increase in purchasing power of currency due to deflation",
+      "Replacement of old currency notes with new ones"
+    ],
+    "ans": 1,
+    "exp": "Devaluation is an official reduction in a currency's exchange rate by the monetary authority (as opposed to depreciation, which is market-driven)."
+  },
+  {
+    "q": "If the Indian Rupee depreciates against the US Dollar, which of the following is the most likely immediate effect?",
+    "opts": [
+      "Indian exports become cheaper and more competitive abroad",
+      "Imports of crude oil become cheaper in rupee terms",
+      "Foreign travel becomes cheaper for Indians",
+      "Remittances received by Indian families decrease in rupee terms"
+    ],
+    "ans": 0,
+    "exp": "A weaker rupee makes Indian goods cheaper for foreign buyers (boosting exports), while making imports like crude oil more expensive in rupee terms."
+  },
+  {
+    "q": "Which of the following is NOT a part of India's Foreign Exchange Reserves held by the RBI?",
+    "opts": [
+      "Foreign Currency Assets (FCA)",
+      "Gold reserves",
+      "Special Drawing Rights (SDRs) with IMF",
+      "Foreign Direct Investment (FDI) equity held by private companies"
+    ],
+    "ans": 3,
+    "exp": "India's Forex Reserves consist of four components: Foreign Currency Assets, Gold, SDRs, and Reserve Tranche Position (RTP) with the IMF."
+  },
+  {
+    "q": "What does 'Open Market Operations (OMO)' by the RBI refer to?",
+    "opts": [
+      "Buying and selling of corporate shares on stock exchanges",
+      "Buying and selling of government securities (G-Secs) to regulate liquidity",
+      "Allowing foreign banks to open branches in India",
