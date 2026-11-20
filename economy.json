@@ -1,145 +1,52 @@
 [
-  {
-    "q": "In the context of Indian monetary policy, what is 'Repo Rate'?",
-    "opts": [
-      "Rate at which commercial banks lend to corporate borrowers",
-      "Rate at which the RBI lends short-term funds to commercial banks against securities",
-      "Rate at which the RBI borrows short-term funds from commercial banks",
-      "Minimum percentage of deposits banks must hold in cash with the RBI"
-    ],
-    "ans": 1,
-    "exp": "Repo (Repurchase Option) rate is the policy rate at which the RBI injects short-term liquidity into commercial banks against government securities."
-  },
-  {
-    "q": "What happens to money supply in the economy if the Reserve Bank of India (RBI) increases the Cash Reserve Ratio (CRR)?",
-    "opts": [
-      "Money supply increases",
-      "Money supply decreases",
-      "Money supply remains unchanged",
-      "Government fiscal deficit decreases immediately"
-    ],
-    "ans": 1,
-    "exp": "A higher CRR forces commercial banks to park a larger share of their Net Demand and Time Liabilities (NDTL) with the RBI, reducing funds available for lending."
-  },
-  {
-    "q": "Which of the following is NOT included in the calculation of India's Gross Domestic Product (GDP)?",
-    "opts": [
-      "Value of final goods produced by a foreign company inside India",
-      "Salaries paid to government employees",
-      "Unpaid household chores performed by family members",
-      "Construction of new residential houses"
-    ],
-    "ans": 2,
-    "exp": "GDP measures market value of all final goods and services produced within domestic territory; non-market unpaid household services are excluded."
-  },
-  {
-    "q": "The 'Monetary Policy Committee (MPC)' in India, which fixes the benchmark policy interest rate, consists of how many members?",
-    "opts": ["4 members", "5 members", "6 members", "8 members"],
-    "ans": 2,
-    "exp": "Constituted under Section 45ZB of the RBI Act, 1934, the MPC has 6 members: 3 from the RBI (including the Governor as ex-officio Chairperson) and 3 external members appointed by the Government."
-  },
-  {
-    "q": "What does 'Primary Deficit' equal in the Union Budget?",
-    "opts": [
-      "Revenue Deficit minus Grants for creation of capital assets",
-      "Fiscal Deficit minus Interest Payments",
-      "Total Expenditure minus Total Receipts",
-      "Capital Expenditure minus Capital Receipts"
-    ],
-    "ans": 1,
-    "exp": "Primary Deficit = Fiscal Deficit − Interest Payments. It indicates the borrowing requirement of the government excluding interest obligations on past debt."
-  },
-  {
-    "q": "Which of the following is a component of 'Capital Expenditure' in the Union Budget?",
-    "opts": [
-      "Payment of salaries and pensions",
-      "Interest payments on public debt",
-      "Subsidies on food and fertilizers",
-      "Expenditure on building highways and railways"
-    ],
-    "ans": 3,
-    "exp": "Capital expenditure creates physical or financial assets or reduces liabilities (e.g., infrastructure, loans to states), whereas salaries, interest, and subsidies are revenue expenditure."
-  },
-  {
-    "q": "The 'Phillips Curve' illustrates an inverse relationship between:",
-    "opts": [
-      "Tax rates and tax revenue",
-      "Inflation and unemployment",
-      "Economic growth and environmental degradation",
-      "Exchange rate and trade balance"
-    ],
-    "ans": 1,
-    "exp": "The Phillips Curve shows that in the short run, lower unemployment is generally accompanied by higher inflation, and vice versa."
-  },
-  {
-    "q": "The 'Laffer Curve' shows the relationship between:",
-    "opts": [
-      "Income inequality and per capita income",
-      "Tax rates and total tax revenue collected by the government",
-      "Money supply and interest rates",
-      "Inflation and GDP growth"
-    ],
-    "ans": 1,
-    "exp": "The Laffer Curve illustrates that beyond an optimal tax rate, further increases in tax rates can reduce total tax revenue by discouraging work and investment."
-  },
-  {
-    "q": "In economics, the 'Gini Coefficient' is used to measure:",
-    "opts": [
-      "Rate of inflation",
-      "Income or wealth inequality",
-      "External debt sustainability",
-      "Human development"
-    ],
-    "ans": 1,
-    "exp": "Derived from the Lorenz Curve, the Gini Coefficient ranges from 0 (perfect equality) to 1 (perfect inequality)."
-  },
-  {
-    "q": "Which of the following is included in the 'Current Account' of India's Balance of Payments (BoP)?",
-    "opts": [
-      "Foreign Direct Investment (FDI)",
-      "Foreign Portfolio Investment (FPI)",
-      "External Commercial Borrowings (ECB)",
-      "Remittances sent by Indians working abroad"
-    ],
-    "ans": 3,
-    "exp": "The Current Account records trade in goods, trade in services, investment income, and current transfers (like remittances). FDI, FPI, and ECBs are part of the Capital Account."
-  },
-  {
-    "q": "What is 'Devaluation' of a currency?",
-    "opts": [
-      "Market-driven fall in currency value under a floating exchange rate",
-      "Deliberate downward adjustment of a currency's value by the government/central bank under a fixed exchange rate",
-      "Increase in purchasing power of currency due to deflation",
-      "Replacement of old currency notes with new ones"
-    ],
-    "ans": 1,
-    "exp": "Devaluation is an official reduction in a currency's exchange rate by the monetary authority (as opposed to depreciation, which is market-driven)."
-  },
-  {
-    "q": "If the Indian Rupee depreciates against the US Dollar, which of the following is the most likely immediate effect?",
-    "opts": [
-      "Indian exports become cheaper and more competitive abroad",
-      "Imports of crude oil become cheaper in rupee terms",
-      "Foreign travel becomes cheaper for Indians",
-      "Remittances received by Indian families decrease in rupee terms"
-    ],
-    "ans": 0,
-    "exp": "A weaker rupee makes Indian goods cheaper for foreign buyers (boosting exports), while making imports like crude oil more expensive in rupee terms."
-  },
-  {
-    "q": "Which of the following is NOT a part of India's Foreign Exchange Reserves held by the RBI?",
-    "opts": [
-      "Foreign Currency Assets (FCA)",
-      "Gold reserves",
-      "Special Drawing Rights (SDRs) with IMF",
-      "Foreign Direct Investment (FDI) equity held by private companies"
-    ],
-    "ans": 3,
-    "exp": "India's Forex Reserves consist of four components: Foreign Currency Assets, Gold, SDRs, and Reserve Tranche Position (RTP) with the IMF."
-  },
-  {
-    "q": "What does 'Open Market Operations (OMO)' by the RBI refer to?",
-    "opts": [
-      "Buying and selling of corporate shares on stock exchanges",
-      "Buying and selling of government securities (G-Secs) to regulate liquidity",
-      "Allowing foreign banks to open branches in India",
+{"q":"In the context of Indian monetary policy, what is 'Repo Rate'?","opts":["Rate at which commercial banks lend to corporate borrowers","Rate at which the RBI lends short-term funds to commercial banks against securities","Rate at which the RBI borrows short-term funds from commercial banks","Minimum percentage of deposits banks must hold in cash with the RBI"],"ans":1,"exp":"Repo (Repurchase Option) rate is the policy rate at which the RBI injects short-term liquidity into commercial banks against government securities."},
+{"q":"What happens to money supply in the economy if the Reserve Bank of India (RBI) increases the Cash Reserve Ratio (CRR)?","opts":["Money supply increases","Money supply decreases","Money supply remains unchanged","Government fiscal deficit decreases immediately"],"ans":1,"exp":"A higher CRR forces commercial banks to park a larger share of their Net Demand and Time Liabilities (NDTL) with the RBI, reducing funds available for lending."},
+{"q":"Which of the following is NOT included in the calculation of India's Gross Domestic Product (GDP)?","opts":["Value of final goods produced by a foreign company inside India","Salaries paid to government employees","Unpaid household chores performed by family members","Construction of new residential houses"],"ans":2,"exp":"GDP measures market value of all final goods and services produced within domestic territory; non-market unpaid household services are excluded."},
+{"q":"The 'Monetary Policy Committee (MPC)' in India, which fixes the benchmark policy interest rate, consists of how many members?","opts":["4 members","5 members","6 members","8 members"],"ans":2,"exp":"Constituted under Section 45ZB of the RBI Act, 1934, the MPC has 6 members: 3 from the RBI (including the Governor as ex-officio Chairperson) and 3 external members appointed by the Government."},
+{"q":"What does 'Primary Deficit' equal in the Union Budget?","opts":["Revenue Deficit minus Grants for creation of capital assets","Fiscal Deficit minus Interest Payments","Total Expenditure minus Total Receipts","Capital Expenditure minus Capital Receipts"],"ans":1,"exp":"Primary Deficit = Fiscal Deficit - Interest Payments. It indicates the borrowing requirement of the government excluding interest obligations on past debt."},
+{"q":"Which of the following is a component of 'Capital Expenditure' in the Union Budget?","opts":["Payment of salaries and pensions","Interest payments on public debt","Subsidies on food and fertilizers","Expenditure on building highways and railways"],"ans":3,"exp":"Capital expenditure creates physical or financial assets or reduces liabilities (e.g., infrastructure, loans to states), whereas salaries, interest, and subsidies are revenue expenditure."},
+{"q":"The 'Phillips Curve' illustrates an inverse relationship between:","opts":["Tax rates and tax revenue","Inflation and unemployment","Economic growth and environmental degradation","Exchange rate and trade balance"],"ans":1,"exp":"The Phillips Curve shows that in the short run, lower unemployment is generally accompanied by higher inflation, and vice versa."},
+{"q":"The 'Laffer Curve' shows the relationship between:","opts":["Income inequality and per capita income","Tax rates and total tax revenue collected by the government","Money supply and interest rates","Inflation and GDP growth"],"ans":1,"exp":"The Laffer Curve illustrates that beyond an optimal tax rate, further increases in tax rates can reduce total tax revenue by discouraging work and investment."},
+{"q":"In economics, the 'Gini Coefficient' is used to measure:","opts":["Rate of inflation","Income or wealth inequality","External debt sustainability","Human development"],"ans":1,"exp":"Derived from the Lorenz Curve, the Gini Coefficient ranges from 0 (perfect equality) to 1 (perfect inequality)."},
+{"q":"Which of the following is included in the 'Current Account' of India's Balance of Payments (BoP)?","opts":["Foreign Direct Investment (FDI)","Foreign Portfolio Investment (FPI)","External Commercial Borrowings (ECB)","Remittances sent by Indians working abroad"],"ans":3,"exp":"The Current Account records trade in goods, trade in services, investment income, and current transfers (like remittances). FDI, FPI, and ECBs are part of the Capital Account."},
+{"q":"What is 'Devaluation' of a currency?","opts":["Market-driven fall in currency value under a floating exchange rate","Deliberate downward adjustment of a currency's value by the government/central bank under a fixed exchange rate","Increase in purchasing power of currency due to deflation","Replacement of old currency notes with new ones"],"ans":1,"exp":"Devaluation is an official reduction in a currency's exchange rate by the monetary authority (as opposed to depreciation, which is market-driven)."},
+{"q":"If the Indian Rupee depreciates against the US Dollar, which of the following is the most likely immediate effect?","opts":["Indian exports become cheaper and more competitive abroad","Imports of crude oil become cheaper in rupee terms","Foreign travel becomes cheaper for Indians","Remittances received by Indian families decrease in rupee terms"],"ans":0,"exp":"A weaker rupee makes Indian goods cheaper for foreign buyers (boosting exports), while making imports like crude oil more expensive in rupee terms."},
+{"q":"Which of the following is NOT a part of India's Foreign Exchange Reserves held by the RBI?","opts":["Foreign Currency Assets (FCA)","Gold reserves","Special Drawing Rights (SDRs) with IMF","Foreign Direct Investment (FDI) equity held by private companies"],"ans":3,"exp":"India's Forex Reserves consist of four components: Foreign Currency Assets, Gold, SDRs, and Reserve Tranche Position (RTP) with the IMF."},
+{"q":"What does 'Open Market Operations (OMO)' by the RBI refer to?","opts":["Buying and selling of corporate shares on stock exchanges","Buying and selling of government securities (G-Secs) to regulate liquidity","Allowing foreign banks to open branches in India","Direct lending by RBI to agricultural farmers"],"ans":1,"exp":"Through OMOs, the RBI buys G-Secs to inject liquidity into the banking system and sells G-Secs to absorb excess liquidity."},
+{"q":"Which of the following is the narrowest measure of money supply in India?","opts":["M1","M2","M3","M4"],"ans":0,"exp":"M1 (Currency with the public + Demand deposits with banks + Other deposits with RBI) is the narrowest and most liquid measure; M3 is Broad Money."},
+{"q":"Which body regulates the capital markets (stock exchanges, mutual funds, and merchant bankers) in India?","opts":["RBI","SEBI","IRDAI","PFRDA"],"ans":1,"exp":"The Securities and Exchange Board of India (SEBI), given statutory status in 1992, regulates India's securities and capital markets."},
+{"q":"What is 'Core Inflation'?","opts":["Headline inflation including all items in the CPI basket","Inflation measured excluding volatile food and fuel (energy) prices","Inflation solely in agricultural commodities","Wholesale price inflation of capital goods"],"ans":1,"exp":"Core inflation strips out transitory price swings in food and fuel to capture underlying, persistent inflationary pressure."},
+{"q":"Which organization compiles and releases the Wholesale Price Index (WPI) in India?","opts":["National Statistical Office (NSO)","Reserve Bank of India (RBI)","Office of the Economic Adviser, Ministry of Commerce and Industry","NITI Aayog"],"ans":2,"exp":"WPI is published monthly by the Office of the Economic Adviser (DPIIT, Ministry of Commerce and Industry), whereas CPI (Combined) is released by NSO."},
+{"q":"Which of the following is an example of a 'Direct Tax' in India?","opts":["Goods and Services Tax (GST)","Customs Duty","Corporate Income Tax","Central Excise Duty on petroleum"],"ans":2,"exp":"In a direct tax (like Income Tax or Corporate Tax), the incidence and impact fall on the same person/entity and cannot be shifted to others."},
+{"q":"The Goods and Services Tax (GST) in India is a:","opts":["Origin-based direct tax","Destination-based indirect tax","Origin-based indirect tax","Progressive wealth tax"],"ans":1,"exp":"GST is a destination-based consumption tax, meaning the tax revenue accrues to the state where the goods or services are finally consumed."},
+{"q":"Which Five-Year Plan in India was based on the 'Mahalanobis Model' focusing on rapid industrialization and heavy industries?","opts":["First Five-Year Plan (1951-56)","Second Five-Year Plan (1956-61)","Third Five-Year Plan (1961-66)","Fifth Five-Year Plan (1974-79)"],"ans":1,"exp":"The Second Five-Year Plan (1956-61), drafted by P.C. Mahalanobis, prioritized heavy and basic industries; the First Plan followed the Harrod-Domar model."},
+{"q":"The famous slogan 'Garibi Hatao' (Eradicate Poverty) was associated with which Five-Year Plan?","opts":["Third Five-Year Plan","Fourth Five-Year Plan","Fifth Five-Year Plan","Seventh Five-Year Plan"],"ans":2,"exp":"The Fifth Five-Year Plan (1974-79) laid stress on poverty alleviation ('Garibi Hatao') and attainment of self-reliance."},
+{"q":"The 'LPG Reforms' (Liberalization, Privatization, Globalization) were introduced in India in 1991 primarily to address:","opts":["A severe Balance of Payments (BoP) crisis","Hyperinflation caused by World War II","Collapse of the agricultural sector","Excessive foreign exchange reserves"],"ans":0,"exp":"In 1991, India's forex reserves fell to barely two weeks of imports, prompting the New Economic Policy (LPG reforms) under PM P.V. Narasimha Rao and FM Dr. Manmohan Singh."},
+{"q":"What is 'Disguised Unemployment', commonly seen in Indian agriculture?","opts":["Workers who are temporarily between two jobs","Workers employed during harvest season only","More workers employed than needed, where marginal productivity of extra workers is zero","Educated youth working below their skill level"],"ans":2,"exp":"In disguised unemployment, removing surplus workers from a farm does not reduce total output because their marginal productivity is zero."},
+{"q":"Who recommends the Minimum Support Price (MSP) for mandated agricultural crops in India?","opts":["Food Corporation of India (FCI)","Commission for Agricultural Costs and Prices (CACP)","NABARD","NITI Aayog"],"ans":1,"exp":"The CACP recommends MSPs for 22 mandated crops (plus FRP for sugarcane), and the final approval is given by the Cabinet Committee on Economic Affairs (CCEA)."},
+{"q":"NABARD (National Bank for Agriculture and Rural Development) was established in 1982 on the recommendation of which committee?","opts":["Narasimham Committee","B. Sivaraman Committee (CRAFICARD)","Rangarajan Committee","Kelkar Committee"],"ans":1,"exp":"NABARD was set up on 12 July 1982 following the recommendations of the B. Sivaraman Committee to serve as the apex rural development bank."},
+{"q":"In banking, what is a 'Non-Performing Asset (NPA)'?","opts":["A loan where interest or principal remains overdue for more than 30 days","A loan where interest or principal remains overdue for more than 90 days","Any loan given to the priority sector","Cash held by a bank in its ATMs"],"ans":1,"exp":"As per RBI norms, a loan or advance becomes an NPA when interest and/or installment of principal remains overdue for a period of more than 90 days."},
+{"q":"What is the 'Statutory Liquidity Ratio (SLR)'?","opts":["Percentage of deposits banks must keep in cash with the RBI","Percentage of NDTL that banks must maintain in liquid assets like cash, gold, or approved government securities","Maximum interest rate banks can charge on home loans","Ratio of a bank's capital to its risk-weighted assets"],"ans":1,"exp":"Unlike CRR (kept only in cash with RBI), SLR is maintained by banks themselves in the form of cash, gold, or unencumbered approved securities."},
+{"q":"The 'Basel III' international regulatory framework is associated with:","opts":["Global climate finance","Banking supervision, capital adequacy, and risk management","Cross-border e-commerce taxation","Intellectual property rights"],"ans":1,"exp":"Developed by the Basel Committee on Banking Supervision (BCBS), Basel III strengthens bank capital requirements, leverage ratios, and liquidity standards."},
+{"q":"What does 'FRBM Act, 2003' aim to achieve?","opts":["Regulate foreign exchange transactions","Ensure fiscal discipline by reducing fiscal deficit and public debt","Promote microfinance institutions in rural India","Control monopolistic trade practices"],"ans":1,"exp":"The Fiscal Responsibility and Budget Management (FRBM) Act, 2003 sets targets for fiscal consolidation, transparency in fiscal operations, and debt management."},
+{"q":"Which of the following is a 'Public Good' in economics?","opts":["A movie ticket","National defence and street lighting","A smartphone","Private toll highway"],"ans":1,"exp":"Public goods are non-excludable (nobody can be prevented from using them) and non-rivalrous (one person's use does not reduce availability for others)."},
+{"q":"What is 'Crowding Out' in macroeconomics?","opts":["Excessive private investment pushing out public sector units","High government borrowing raising interest rates and reducing private sector investment","Foreign companies buying out domestic startups","Rural workers migrating to urban slums"],"ans":1,"exp":"When the government borrows heavily from the domestic market to fund fiscal deficits, it drives up interest rates, making borrowing costlier for private businesses."},
+{"q":"The 'Human Development Index (HDI)' published by UNDP is based on which three dimensions?","opts":["GDP growth, Inflation, and Unemployment","Life expectancy, Education, and Per Capita Income (GNI)","Literacy rate, Infant mortality, and Sanitation","Poverty rate, Gender ratio, and Carbon emissions"],"ans":1,"exp":"HDI measures average achievement in three key dimensions: a long and healthy life (life expectancy), knowledge (mean & expected years of schooling), and a decent standard of living (GNI per capita PPP)."},
+{"q":"In the World Trade Organization (WTO), 'Amber Box' subsidies refer to:","opts":["Subsidies that cause minimal or no trade distortion","Domestic agricultural support measures considered to distort production and trade","Direct income support linked to production-limiting programmes","Export subsidies for manufactured industrial goods"],"ans":1,"exp":"In WTO's Agreement on Agriculture, Amber Box covers trade-distorting subsidies (like MSP/input subsidies), Green Box covers non-distorting ones, and Blue Box covers production-limiting subsidies."},
+{"q":"What is a 'Giffen Good'?","opts":["A luxury item whose demand rises with price for status","A low-income, non-luxury staple whose demand increases as its price rises, violating the law of demand","A good supplied exclusively by government monopolies","An eco-friendly substitute for plastic"],"ans":1,"exp":"For a Giffen good (a rare type of inferior good), the negative income effect outweighs the substitution effect, causing quantity demanded to rise when price rises."},
+{"q":"Which of the following best describes 'Foreign Direct Investment (FDI)' as compared to 'Foreign Portfolio Investment (FPI)'?","opts":["FDI is short-term and easily reversible ('hot money')","FDI involves a lasting interest and management/control in a domestic enterprise","FDI is only allowed in government bonds","FPI always requires building a new factory"],"ans":1,"exp":"FDI represents long-term capital with management participation (typically >=10% equity stake), whereas FPI is passive investment in financial assets like stocks and bonds."},
+{"q":"What is 'Stagflation'?","opts":["Rapid economic growth with falling prices","High inflation combined with stagnant economic growth and high unemployment","Persistent fall in general price levels","Sudden surge in stock market valuations"],"ans":1,"exp":"Stagflation is a challenging economic condition where inflation remains high even as GDP growth stalls and unemployment rises."},
+{"q":"What does 'Disinvestment' mean in the context of Indian Public Sector Enterprises (PSEs)?","opts":["Closing down all loss-making private companies","Sale or liquidation of the government's equity/shareholding in public sector undertakings","Stopping all capital expenditure in the Union Budget","Banning foreign companies from investing in India"],"ans":1,"exp":"Disinvestment refers to the government reducing its equity stake in PSEs to raise non-debt capital receipts and improve efficiency."},
+{"q":"Which of the following is NOT one of the Eight Core Industries included in the Index of Industrial Production (IIP) in India?","opts":["Coal","Crude Oil","Textiles","Electricity"],"ans":2,"exp":"The Eight Core Industries (40.27% weight in IIP) are: Coal, Crude Oil, Natural Gas, Refinery Products, Fertilizers, Steel, Cement, and Electricity."},
+{"q":"What is a 'Sovereign Gold Bond (SGB)'?","opts":["Physical gold coins sold by commercial banks","Government securities denominated in grams of gold issued by the RBI on behalf of the Government of India","Shares of gold mining companies listed on NSE","Gold reserves pledged by India with the World Bank"],"ans":1,"exp":"SGBs are substitutes for holding physical gold, offering both gold price appreciation and a fixed annual interest rate, helping reduce physical gold imports."},
+{"q":"The 'Special Drawing Rights (SDR)' is an international reserve asset created by which institution?","opts":["World Bank","International Monetary Fund (IMF)","Bank for International Settlements (BIS)","World Trade Organization (WTO)"],"ans":1,"exp":"Created by the IMF in 1969, SDR value is based on a basket of five currencies: US Dollar, Euro, Chinese Renminbi, Japanese Yen, and British Pound."},
+{"q":"Which of the following best defines 'Marginal Standing Facility (MSF)'?","opts":["A window for scheduled commercial banks to borrow overnight funds from the RBI in an emergency at a penal rate above the Repo rate","Long-term infrastructure loans given by RBI to state governments","Interest-free loans provided to startups","Minimum capital required to open a Small Finance Bank"],"ans":0,"exp":"MSF acts as a safety valve for banks facing acute overnight liquidity shortages, allowing them to borrow from RBI by dipping into their SLR portfolio."},
+{"q":"What is 'Priority Sector Lending (PSL)' mandated by the RBI?","opts":["Lending exclusively to Maharatna PSUs","Directing banks to allocate a specified portion of credit to vital sectors like agriculture, MSMEs, education, and housing","Lending only to central government ministries","Providing loans only to AAA-rated corporates"],"ans":1,"exp":"Under PSL norms, domestic scheduled commercial banks must direct 40% of their Adjusted Net Bank Credit (ANBC) to priority sectors like agriculture, MSMEs, and weaker sections."},
+{"q":"Which of the following is the primary objective of 'Operation Twist' conducted by the RBI?","opts":["Replacing old currency notes with polymer notes","Simultaneously buying long-term government bonds and selling short-term bonds to bring down long-term interest rates","Merging regional rural banks with public sector banks","Fixing the daily rupee-dollar exchange rate"],"ans":1,"exp":"Operation Twist flattens the yield curve by lowering long-term bond yields (making long-term borrowing cheaper) while keeping overall liquidity neutral."},
+{"q":"The 'Kuznets Curve' hypothesizes an inverted U-shaped relationship between:","opts":["Inflation and unemployment","Economic development (per capita income) and income inequality","Tax rates and government spending","Exports and GDP"],"ans":1,"exp":"Simon Kuznets proposed that as an economy develops, inequality first rises and then falls after reaching a certain level of average income."},
+{"q":"What is 'GDP Deflator'?","opts":["Ratio of Real GDP to Nominal GDP","Ratio of Nominal GDP to Real GDP multiplied by 100","Difference between GDP and GNP","Rate of depreciation of capital goods"],"ans":1,"exp":"GDP Deflator = (Nominal GDP / Real GDP) x 100. It is a comprehensive measure of inflation covering all domestically produced final goods and services."},
+{"q":"Which of the following is a 'Non-Tax Revenue' receipt of the Government of India?","opts":["Goods and Services Tax (GST)","Personal Income Tax","Dividends and profits from Public Sector Undertakings (PSUs) and RBI surplus transfer","Customs Duty"],"ans":2,"exp":"Non-tax revenue includes dividends from PSUs, RBI surplus transfers, interest receipts, telecom spectrum fees, and administrative fines."},
+{"q":"What is 'Angel Tax' (which was abolished in the Union Budget 2024-25) historically levied on?","opts":["Charitable trusts and NGOs","Capital raised by unlisted startups from investors at a valuation exceeding Fair Market Value","Luxury goods imported by aviation companies","Cryptocurrency mining profits"],"ans":1,"exp":"Introduced under Section 56(2)(viib) of the Income Tax Act, Angel Tax taxed excess share premium received by unlisted companies over fair market value; it was abolished in Budget 2024-25 to boost the startup ecosystem."},
+{"q":"The 'Insolvency and Bankruptcy Code (IBC), 2016' was enacted primarily to:","opts":["Nationalize private commercial banks","Provide a time-bound, consolidated framework for resolving insolvency and bankruptcy of corporates and individuals","Regulate stock market insider trading","Replace the Reserve Bank of India Act"],"ans":1,"exp":"IBC 2016 created a unified, creditor-driven, time-bound resolution process overseen by IBBI and adjudicated by NCLT (for corporates) and DRT (for individuals)."},
+{"q":"What is the 'Twin Balance Sheet Problem' often discussed in the Indian economy?","opts":["Simultaneous fiscal deficit and current account deficit","Simultaneous stress on over-leveraged corporate balance sheets and NPA-burdened bank balance sheets","Imbalance between exports and imports with China","Mismatch between Centre and State GST collections"],"ans":1,"exp":"The Twin Balance Sheet problem refers to stressed corporates unable to repay debts alongside banks saddled with high Non-Performing Assets (NPAs), choking fresh investment."}
+]
