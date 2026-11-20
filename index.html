@@ -225,6 +225,7 @@
 
     let bank = {};
     let totalBankCount = 0;
+    let failedList = [];
     let currentSet = [];
     let answers = [];
     let cur = 0;
@@ -248,29 +249,33 @@
     }
 
     async function initBank() {
+      const bust = "?v=" + Date.now();
       const results = await Promise.allSettled(
         SUBJECT_FILES.map(async (s) => {
-          const res = await fetch(s.file);
-          if (!res.ok) throw new Error("Missing " + s.file);
+          const res = await fetch(s.file + bust, { cache: "no-store" });
+          if (!res.ok) throw new Error("HTTP " + res.status);
           const data = await res.json();
           return { ...s, data };
         })
       );
 
       totalBankCount = 0;
-      results.forEach((r) => {
+      failedList = [];
+      results.forEach((r, idx) => {
         if (r.status === "fulfilled" && Array.isArray(r.value.data) && r.value.data.length > 0) {
           bank[r.value.key] = {
             label: r.value.label,
             questions: r.value.data
           };
           totalBankCount += r.value.data.length;
+        } else {
+          failedList.push(SUBJECT_FILES[idx].key + " (" + (r.reason?.message || "invalid JSON") + ")");
         }
       });
 
       if (totalBankCount === 0) {
         document.getElementById("loading-msg").textContent =
-          "No question JSON files found yet. Add polity.json, history.json, geography.json, economy.json to the repo.";
+          "No question JSON files loaded. Errors: " + failedList.join(", ");
         return;
       }
 
@@ -287,8 +292,11 @@
         used += (seen[k] || []).length;
       });
       const subCount = Object.keys(bank).length;
-      document.getElementById("bank-info").innerHTML =
-        `Bank: <strong>${totalBankCount} PYQs</strong> (${subCount} subjects) • Seen: <strong>${used}/${totalBankCount}</strong>`;
+      let html = `Bank: <strong>${totalBankCount} PYQs</strong> (${subCount} subjects) • Seen: <strong>${used}/${totalBankCount}</strong>`;
+      if (failedList.length > 0) {
+        html += ` <span style="color:#ff3b5c;">• Failed: ${failedList.join(", ")}</span>`;
+      }
+      document.getElementById("bank-info").innerHTML = html;
     }
 
     function startNewRandomSet() {
