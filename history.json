@@ -1,142 +1,52 @@
 [
-  {
-    "q": "Which of the following Indus Valley sites is famous for its ancient dockyard?",
-    "opts": ["Harappa", "Mohenjodaro", "Lothal", "Kalibangan"],
-    "ans": 2,
-    "exp": "Lothal (located in Gujarat near the Bhogava river) had a massive brick-lined dockyard used for maritime trade."
-  },
-  {
-    "q": "The 'Great Bath' of the Indus Valley Civilization was discovered at:",
-    "opts": ["Harappa", "Mohenjodaro", "Dholavira", "Rakhigarhi"],
-    "ans": 1,
-    "exp": "The Great Bath, a large public water tank likely used for ritual bathing, was excavated at Mohenjodaro."
-  },
-  {
-    "q": "The famous 'Gayatri Mantra' is found in which Mandala of the Rig Veda?",
-    "opts": ["First Mandala", "Third Mandala", "Seventh Mandala", "Tenth Mandala"],
-    "ans": 1,
-    "exp": "The Gayatri Mantra, dedicated to Savitri, is composed by Vishwamitra and appears in the 3rd Mandala of the Rig Veda."
-  },
-  {
-    "q": "Where did Gautama Buddha deliver his first sermon (Dharmachakrapravartana)?",
-    "opts": ["Bodh Gaya", "Sarnath", "Kushinagar", "Lumbini"],
-    "ans": 1,
-    "exp": "Buddha delivered his first sermon to five ascetics at the Deer Park (Isipatana) in Sarnath, near Varanasi."
-  },
-  {
-    "q": "The Fourth Buddhist Council was held in Kashmir under the patronage of which ruler?",
-    "opts": ["Ashoka", "Kalasoka", "Kanishka", "Harshavardhana"],
-    "ans": 2,
-    "exp": "The Fourth Buddhist Council was held at Kundalvana in Kashmir under Kushan emperor Kanishka, presided over by Vasumitra."
-  },
-  {
-    "q": "Who deciphered the Brahmi and Kharosthi scripts of Ashokan inscriptions in 1837?",
-    "opts": ["Alexander Cunningham", "James Prinsep", "William Jones", "John Marshall"],
-    "ans": 1,
-    "exp": "James Prinsep, an officer of the East India Company mint, deciphered the Brahmi and Kharosthi scripts in 1837."
-  },
-  {
-    "q": "Which Ashokan Rock Edict describes the horrors of the Kalinga War and Ashoka's remorse?",
-    "opts": ["Major Rock Edict I", "Major Rock Edict VII", "Major Rock Edict XIII", "Pillar Edict VII"],
-    "ans": 2,
-    "exp": "Major Rock Edict XIII records Ashoka's victory over Kalinga and his subsequent turn towards Dhamma."
-  },
-  {
-    "q": "Megasthenes, the Greek ambassador who wrote 'Indica', visited the court of:",
-    "opts": ["Chandragupta Maurya", "Bindusara", "Ashoka", "Chandragupta II"],
-    "ans": 0,
-    "exp": "Megasthenes was sent by Seleucus I Nicator as an ambassador to the Mauryan court of Chandragupta Maurya at Pataliputra."
-  },
-  {
-    "q": "The 'Prayag Prashasti' (Allahabad Pillar Inscription) celebrating Samudragupta's conquests was composed by:",
-    "opts": ["Kalidasa", "Harishena", "Banabhatta", "Ravikirti"],
-    "ans": 1,
-    "exp": "Harishena, the court poet and minister of Samudragupta, composed the Prayag Prashasti in classical Sanskrit."
-  },
-  {
-    "q": "The Chinese Buddhist pilgrim Fa-Hien (Faxian) visited India during the reign of:",
-    "opts": ["Samudragupta", "Chandragupta II", "Kumaragupta I", "Harshavardhana"],
-    "ans": 1,
-    "exp": "Fa-Hien visited India between 399 and 414 CE during the reign of Gupta emperor Chandragupta II (Vikramaditya)."
-  },
-  {
-    "q": "The Aihole Inscription, which records the defeat of Harshavardhana by Pulakeshin II, was composed by:",
-    "opts": ["Ravikirti", "Dandin", "Bharavi", "Bilhana"],
-    "ans": 0,
-    "exp": "Ravikirti, the Jain court poet of Chalukya king Pulakeshin II, composed the Aihole Prashasti."
-  },
-  {
-    "q": "The famous Brihadeeswarar Temple at Thanjavur was built by which Chola ruler?",
-    "opts": ["Vijayalaya Chola", "Rajaraja I", "Rajendra I", "Kulottunga I"],
-    "ans": 1,
-    "exp": "Rajaraja Chola I completed the Brihadeeswarar Temple (Rajarajeshwaram) in 1010 CE; it is a UNESCO World Heritage Site."
-  },
-  {
-    "q": "The Chola local self-government (village assemblies like Sabha and Ur) is famously detailed in the inscriptions of:",
-    "opts": ["Uttaramerur", "Kanchipuram", "Madurai", "Badami"],
-    "ans": 0,
-    "exp": "The Uttaramerur inscriptions of Parantaka I provide detailed rules for the election and functioning of village committees (Variyams)."
-  },
-  {
-    "q": "Who among the following Delhi Sultans introduced the market control policy and the 'Dagh' (branding of horses) system?",
-    "opts": ["Iltutmish", "Ghiyasuddin Balban", "Alauddin Khalji", "Muhammad bin Tughlaq"],
-    "ans": 2,
-    "exp": "Alauddin Khalji introduced strict market price regulations, Dagh (horse branding), and Chehra (descriptive roll of soldiers)."
-  },
-  {
-    "q": "The 'Iqta' system of land revenue assignment was institutionalized in the Delhi Sultanate by:",
-    "opts": ["Qutb-ud-din Aibak", "Iltutmish", "Balban", "Firoz Shah Tughlaq"],
-    "ans": 1,
-    "exp": "Shams-ud-din Iltutmish institutionalized the Iqta system, dividing the empire into tracts assigned to officers (Iqtadars) in lieu of salary."
-  },
-  {
-    "q": "The Moroccan traveler Ibn Battuta visited India during the reign of which Delhi Sultan?",
-    "opts": ["Alauddin Khalji", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Sikandar Lodi"],
-    "ans": 1,
-    "exp": "Ibn Battuta arrived in India in 1333 CE during Muhammad bin Tughlaq's reign and was appointed Qazi of Delhi."
-  },
-  {
-    "q": "The Vijayanagara Empire was founded in 1336 CE on the banks of the Tungabhadra river by:",
-    "opts": ["Krishnadevaraya", "Harihara I and Bukka Raya I", "Deva Raya II", "Saluva Narasimha"],
-    "ans": 1,
-    "exp": "Harihara I and Bukka Raya I of the Sangama dynasty founded the Vijayanagara Empire in 1336 CE."
-  },
-  {
-    "q": "Who authored the famous Telugu work 'Amuktamalyada'?",
-    "opts": ["Tenali Ramakrishna", "Allasani Peddana", "Krishnadevaraya", "Nannaya"],
-    "ans": 2,
-    "exp": "Vijayanagara emperor Krishnadevaraya (Tuluva dynasty) authored Amuktamalyada in Telugu and Jambavati Kalyanam in Sanskrit."
-  },
-  {
-    "q": "The First Battle of Panipat (1526), which established Mughal rule in India, was fought between Babur and:",
-    "opts": ["Rana Sanga", "Ibrahim Lodi", "Sher Shah Suri", "Hemu"],
-    "ans": 1,
-    "exp": "Babur defeated Ibrahim Lodi in the First Battle of Panipat in April 1526 using artillery and the Tulughma tactic."
-  },
-  {
-    "q": "The 'Dahsala' (Zabti) land revenue system under Emperor Akbar was formulated by:",
-    "opts": ["Birbal", "Abul Fazl", "Raja Todar Mal", "Man Singh"],
-    "ans": 2,
-    "exp": "Raja Todar Mal introduced the Ain-i-Dahsala system in 1580, fixing revenue based on the average produce and prices of the preceding ten years."
-  },
-  {
-    "q": "In the Mughal Mansabdari system, what did the terms 'Zat' and 'Sawar' denote respectively?",
-    "opts": ["Land area and tax rate", "Personal rank/salary and number of cavalrymen to maintain", "Infantry count and artillery count", "Provincial title and judicial power"],
-    "ans": 1,
-    "exp": "'Zat' fixed the personal status and salary of a Mansabdar, while 'Sawar' indicated the number of cavalrymen he was required to maintain."
-  },
-  {
-    "q": "Who among the following Bhakti saints was a disciple of Ramananda and composed verses included in the Guru Granth Sahib?",
-    "opts": ["Chaitanya Mahaprabhu", "Kabir", "Vallabhacharya", "Basavanna"],
-    "ans": 1,
-    "exp": "Kabir, a Nirguna Bhakti saint and disciple of Ramananda, criticized ritualism; many of his verses are preserved in the Guru Granth Sahib."
-  },
-  {
-    "q": "The Treaty of Purandar (1665) was signed between Chhatrapati Shivaji Maharaj and:",
-    "opts": ["Shaista Khan", "Mirza Raja Jai Singh I", "Afzal Khan", "Aurangzeb directly"],
-    "ans": 1,
-    "exp": "The Treaty of Purandar was signed on 11 June 1665 between Shivaji and Mughal commander Mirza Raja Jai Singh I."
-  },
-  {
-    "q": "In the Battle of Plassey (1757), the British East India Company forces were led by:",
-    "opts": ["Hector Munro", "Robert Clive", "
+{"q":"Which of the following Indus Valley sites is famous for its ancient dockyard?","opts":["Harappa","Mohenjodaro","Lothal","Kalibangan"],"ans":2,"exp":"Lothal (located in Gujarat near the Bhogava river) had a massive brick-lined dockyard used for maritime trade."},
+{"q":"The 'Great Bath' of the Indus Valley Civilization was discovered at:","opts":["Harappa","Mohenjodaro","Dholavira","Rakhigarhi"],"ans":1,"exp":"The Great Bath, a large public water tank likely used for ritual bathing, was excavated at Mohenjodaro."},
+{"q":"The famous 'Gayatri Mantra' is found in which Mandala of the Rig Veda?","opts":["First Mandala","Third Mandala","Seventh Mandala","Tenth Mandala"],"ans":1,"exp":"The Gayatri Mantra, dedicated to Savitri, is composed by Vishwamitra and appears in the 3rd Mandala of the Rig Veda."},
+{"q":"Where did Gautama Buddha deliver his first sermon (Dharmachakrapravartana)?","opts":["Bodh Gaya","Sarnath","Kushinagar","Lumbini"],"ans":1,"exp":"Buddha delivered his first sermon to five ascetics at the Deer Park (Isipatana) in Sarnath, near Varanasi."},
+{"q":"The Fourth Buddhist Council was held in Kashmir under the patronage of which ruler?","opts":["Ashoka","Kalasoka","Kanishka","Harshavardhana"],"ans":2,"exp":"The Fourth Buddhist Council was held at Kundalvana in Kashmir under Kushan emperor Kanishka, presided over by Vasumitra."},
+{"q":"Who deciphered the Brahmi and Kharosthi scripts of Ashokan inscriptions in 1837?","opts":["Alexander Cunningham","James Prinsep","William Jones","John Marshall"],"ans":1,"exp":"James Prinsep, an officer of the East India Company mint, deciphered the Brahmi and Kharosthi scripts in 1837."},
+{"q":"Which Ashokan Rock Edict describes the horrors of the Kalinga War and Ashoka's remorse?","opts":["Major Rock Edict I","Major Rock Edict VII","Major Rock Edict XIII","Pillar Edict VII"],"ans":2,"exp":"Major Rock Edict XIII records Ashoka's victory over Kalinga and his subsequent turn towards Dhamma."},
+{"q":"Megasthenes, the Greek ambassador who wrote 'Indica', visited the court of:","opts":["Chandragupta Maurya","Bindusara","Ashoka","Chandragupta II"],"ans":0,"exp":"Megasthenes was sent by Seleucus I Nicator as an ambassador to the Mauryan court of Chandragupta Maurya at Pataliputra."},
+{"q":"The 'Prayag Prashasti' (Allahabad Pillar Inscription) celebrating Samudragupta's conquests was composed by:","opts":["Kalidasa","Harishena","Banabhatta","Ravikirti"],"ans":1,"exp":"Harishena, the court poet and minister of Samudragupta, composed the Prayag Prashasti in classical Sanskrit."},
+{"q":"The Chinese Buddhist pilgrim Fa-Hien (Faxian) visited India during the reign of:","opts":["Samudragupta","Chandragupta II","Kumaragupta I","Harshavardhana"],"ans":1,"exp":"Fa-Hien visited India between 399 and 414 CE during the reign of Gupta emperor Chandragupta II (Vikramaditya)."},
+{"q":"The Aihole Inscription, which records the defeat of Harshavardhana by Pulakeshin II, was composed by:","opts":["Ravikirti","Dandin","Bharavi","Bilhana"],"ans":0,"exp":"Ravikirti, the Jain court poet of Chalukya king Pulakeshin II, composed the Aihole Prashasti."},
+{"q":"The famous Brihadeeswarar Temple at Thanjavur was built by which Chola ruler?","opts":["Vijayalaya Chola","Rajaraja I","Rajendra I","Kulottunga I"],"ans":1,"exp":"Rajaraja Chola I completed the Brihadeeswarar Temple (Rajarajeshwaram) in 1010 CE; it is a UNESCO World Heritage Site."},
+{"q":"The Chola local self-government (village assemblies like Sabha and Ur) is famously detailed in the inscriptions of:","opts":["Uttaramerur","Kanchipuram","Madurai","Badami"],"ans":0,"exp":"The Uttaramerur inscriptions of Parantaka I provide detailed rules for the election and functioning of village committees (Variyams)."},
+{"q":"Who among the following Delhi Sultans introduced the market control policy and the 'Dagh' (branding of horses) system?","opts":["Iltutmish","Ghiyasuddin Balban","Alauddin Khalji","Muhammad bin Tughlaq"],"ans":2,"exp":"Alauddin Khalji introduced strict market price regulations, Dagh (horse branding), and Chehra (descriptive roll of soldiers)."},
+{"q":"The 'Iqta' system of land revenue assignment was institutionalized in the Delhi Sultanate by:","opts":["Qutb-ud-din Aibak","Iltutmish","Balban","Firoz Shah Tughlaq"],"ans":1,"exp":"Shams-ud-din Iltutmish institutionalized the Iqta system, dividing the empire into tracts assigned to officers (Iqtadars) in lieu of salary."},
+{"q":"The Moroccan traveler Ibn Battuta visited India during the reign of which Delhi Sultan?","opts":["Alauddin Khalji","Muhammad bin Tughlaq","Firoz Shah Tughlaq","Sikandar Lodi"],"ans":1,"exp":"Ibn Battuta arrived in India in 1333 CE during Muhammad bin Tughlaq's reign and was appointed Qazi of Delhi."},
+{"q":"The Vijayanagara Empire was founded in 1336 CE on the banks of the Tungabhadra river by:","opts":["Krishnadevaraya","Harihara I and Bukka Raya I","Deva Raya II","Saluva Narasimha"],"ans":1,"exp":"Harihara I and Bukka Raya I of the Sangama dynasty founded the Vijayanagara Empire in 1336 CE."},
+{"q":"Who authored the famous Telugu work 'Amuktamalyada'?","opts":["Tenali Ramakrishna","Allasani Peddana","Krishnadevaraya","Nannaya"],"ans":2,"exp":"Vijayanagara emperor Krishnadevaraya (Tuluva dynasty) authored Amuktamalyada in Telugu and Jambavati Kalyanam in Sanskrit."},
+{"q":"The First Battle of Panipat (1526), which established Mughal rule in India, was fought between Babur and:","opts":["Rana Sanga","Ibrahim Lodi","Sher Shah Suri","Hemu"],"ans":1,"exp":"Babur defeated Ibrahim Lodi in the First Battle of Panipat in April 1526 using artillery and the Tulughma tactic."},
+{"q":"The 'Dahsala' (Zabti) land revenue system under Emperor Akbar was formulated by:","opts":["Birbal","Abul Fazl","Raja Todar Mal","Man Singh"],"ans":2,"exp":"Raja Todar Mal introduced the Ain-i-Dahsala system in 1580, fixing revenue based on the average produce and prices of the preceding ten years."},
+{"q":"In the Mughal Mansabdari system, what did the terms 'Zat' and 'Sawar' denote respectively?","opts":["Land area and tax rate","Personal rank/salary and number of cavalrymen to maintain","Infantry count and artillery count","Provincial title and judicial power"],"ans":1,"exp":"'Zat' fixed the personal status and salary of a Mansabdar, while 'Sawar' indicated the number of cavalrymen he was required to maintain."},
+{"q":"Who among the following Bhakti saints was a disciple of Ramananda and composed verses included in the Guru Granth Sahib?","opts":["Chaitanya Mahaprabhu","Kabir","Vallabhacharya","Basavanna"],"ans":1,"exp":"Kabir, a Nirguna Bhakti saint and disciple of Ramananda, criticized ritualism; many of his verses are preserved in the Guru Granth Sahib."},
+{"q":"The Treaty of Purandar (1665) was signed between Chhatrapati Shivaji Maharaj and:","opts":["Shaista Khan","Mirza Raja Jai Singh I","Afzal Khan","Aurangzeb directly"],"ans":1,"exp":"The Treaty of Purandar was signed on 11 June 1665 between Shivaji and Mughal commander Mirza Raja Jai Singh I."},
+{"q":"In the Battle of Plassey (1757), the British East India Company forces were led by:","opts":["Hector Munro","Robert Clive","Warren Hastings","Arthur Wellesley"],"ans":1,"exp":"Robert Clive defeated Nawab Siraj-ud-Daulah of Bengal at Plassey on 23 June 1757, aided by Mir Jafar's defection."},
+{"q":"The Battle of Buxar (1764) led to the signing of which treaty that granted the Diwani rights of Bengal, Bihar, and Orissa to the East India Company?","opts":["Treaty of Salbai","Treaty of Allahabad","Treaty of Seringapatam","Treaty of Bassein"],"ans":1,"exp":"The Treaty of Allahabad (1765) signed between Robert Clive and Mughal Emperor Shah Alam II granted Diwani rights to the Company."},
+{"q":"Which Act created the office of the Governor-General of Bengal and established a Supreme Court at Calcutta?","opts":["Regulating Act of 1773","Pitt's India Act of 1784","Charter Act of 1813","Charter Act of 1833"],"ans":0,"exp":"The Regulating Act of 1773 made Warren Hastings the first Governor-General of Bengal and set up the Supreme Court at Calcutta in 1774."},
+{"q":"Which Charter Act ended the commercial monopoly of the East India Company in India (except trade in tea and trade with China)?","opts":["Charter Act of 1793","Charter Act of 1813","Charter Act of 1833","Charter Act of 1853"],"ans":1,"exp":"The Charter Act of 1813 ended the Company's trade monopoly in India except for tea and trade with China, and allocated Rs 1 lakh for education."},
+{"q":"The 'Ryotwari System' of land revenue settlement in the Madras Presidency was primarily developed by:","opts":["Lord Cornwallis and John Shore","Thomas Munro and Alexander Read","Holt Mackenzie","Robert Merttins Bird"],"ans":1,"exp":"Alexander Read and Thomas Munro introduced the Ryotwari system, where revenue was collected directly from the cultivators (ryots)."},
+{"q":"Sati was legally abolished in Bengal in 1829 during the tenure of which Governor-General?","opts":["Lord Wellesley","Lord Hastings","Lord William Bentinck","Lord Dalhousie"],"ans":2,"exp":"Lord William Bentinck passed Regulation XVII in December 1829 declaring Sati illegal, largely due to Raja Ram Mohan Roy's campaign."},
+{"q":"Which princely state was the FIRST to be annexed by Lord Dalhousie under the 'Doctrine of Lapse'?","opts":["Jhansi","Satara","Nagpur","Awadh"],"ans":1,"exp":"Satara (1848) was the first state annexed under the Doctrine of Lapse, followed by Jaitpur & Sambalpur (1849), Udaipur (1852), Jhansi (1853), and Nagpur (1854)."},
+{"q":"The 'Wood's Despatch' of 1854 is associated with reforms in which field?","opts":["Judicial administration","Police reforms","Education","Land revenue"],"ans":2,"exp":"Wood's Despatch (1854), called the 'Magna Carta of English Education in India', recommended universities in Calcutta, Bombay, and Madras."},
+{"q":"Who led the Revolt of 1857 in Bihar (Jagdishpur)?","opts":["Nana Saheb","Kunwar Singh","Tantia Tope","Bakht Khan"],"ans":1,"exp":"Babu Kunwar Singh, the 80-year-old zamindar of Jagdishpur, led the 1857 uprising in Bihar with remarkable military skill."},
+{"q":"The 'Ilbert Bill Controversy' (1883) occurred during the viceroyalty of:","opts":["Lord Lytton","Lord Ripon","Lord Dufferin","Lord Curzon"],"ans":1,"exp":"Lord Ripon's Ilbert Bill sought to allow senior Indian magistrates to try European British subjects, triggering fierce opposition from Europeans."},
+{"q":"Who founded the 'Satyashodhak Samaj' (Truth-Seekers' Society) in 1873 in Maharashtra?","opts":["Gopal Hari Deshmukh","Jyotirao Phule","Mahadev Govind Ranade","B.R. Ambedkar"],"ans":1,"exp":"Jyotirao Phule founded the Satyashodhak Samaj in 1873 to fight caste oppression and promote education among marginalized communities and women."},
+{"q":"Who presided over the first session of the Indian National Congress held in Bombay in December 1885?","opts":["A.O. Hume","Dadabhai Naoroji","W.C. Bonnerjee","Surendranath Banerjee"],"ans":2,"exp":"Womesh Chunder Bonnerjee presided over the first INC session at Gokuldas Tejpal Sanskrit College, Bombay, attended by 72 delegates."},
+{"q":"The 'Drain of Wealth' theory was systematically put forward by Dadabhai Naoroji in his book:","opts":["Economic History of India","Poverty and Un-British Rule in India","Unhappy India","India Today"],"ans":1,"exp":"Dadabhai Naoroji exposed British economic exploitation in 'Poverty and Un-British Rule in India' (1901)."},
+{"q":"The famous 'Surat Split' between the Moderates and Extremists in the Indian National Congress took place in:","opts":["1905","1906","1907","1909"],"ans":2,"exp":"The INC split at the 1907 Surat Session (presided over by Rash Behari Ghosh) over the scope of the Swadeshi movement and presidency."},
+{"q":"Which Act introduced separate electorates for Muslims for the first time in British India?","opts":["Indian Councils Act, 1892","Indian Councils Act, 1909 (Morley-Minto Reforms)","Government of India Act, 1919","Government of India Act, 1935"],"ans":1,"exp":"The Indian Councils Act of 1909 (Morley-Minto Reforms) introduced communal representation via separate electorates for Muslims."},
+{"q":"The 'Ghadar Party' was founded in 1913 in San Francisco primarily by:","opts":["Lala Hardayal and Sohan Singh Bhakna","Madam Bhikaji Cama and Shyamji Krishna Varma","Bhagat Singh and Chandrashekhar Azad","Subhas Chandra Bose and Rash Behari Bose"],"ans":0,"exp":"Sohan Singh Bhakna (President) and Lala Hardayal (Secretary) founded the Pacific Coast Hindustan Association, popularly known as the Ghadar Party."},
+{"q":"The 'Lucknow Pact' of 1916 was an agreement signed between:","opts":["British Government and Indian National Congress","Indian National Congress and All-India Muslim League","Moderates and British Parliament","Mahatma Gandhi and B.R. Ambedkar"],"ans":1,"exp":"The 1916 Lucknow Session saw both the reunion of Moderates & Extremists and the Lucknow Pact between the INC and the Muslim League."},
+{"q":"Mahatma Gandhi's first Civil Disobedience movement in India was the:","opts":["Ahmedabad Mill Strike","Kheda Satyagraha","Champaran Satyagraha","Rowlatt Satyagraha"],"ans":2,"exp":"In 1917, Gandhi launched the Champaran Satyagraha in Bihar against the oppressive Tinkathia indigo plantation system."},
+{"q":"The 'Dyarchy' system in the provinces was introduced by which Act?","opts":["Indian Councils Act, 1909","Government of India Act, 1919 (Montagu-Chelmsford Reforms)","Government of India Act, 1935","Indian Independence Act, 1947"],"ans":1,"exp":"The Government of India Act, 1919 introduced Dyarchy in provinces (dividing subjects into Reserved and Transferred); the 1935 Act abolished it in provinces."},
+{"q":"Which incident led Mahatma Gandhi to abruptly call off the Non-Cooperation Movement in February 1922?","opts":["Jallianwala Bagh Massacre","Chauri Chaura Incident","Kakori Train Action","Moplah Rebellion"],"ans":1,"exp":"After a violent clash at Chauri Chaura (Gorakhpur, UP) where a police station was set ablaze, Gandhi suspended the Non-Cooperation Movement."},
+{"q":"The 'Purna Swaraj' (Complete Independence) resolution was adopted by the Indian National Congress at its 1929 session in:","opts":["Calcutta","Lahore","Karachi","Madras"],"ans":1,"exp":"At the 1929 Lahore Session presided over by Jawaharlal Nehru, the INC declared Purna Swaraj as its goal and fixed 26 January 1930 as Independence Day."},
+{"q":"The 'Poona Pact' of 1932 was signed between Mahatma Gandhi and Dr. B.R. Ambedkar regarding:","opts":["Separate electorates vs. reserved seats for Depressed Classes","Abolition of Zamindari system","Linguistic reorganization of provinces","Salt tax abolition"],"ans":0,"exp":"The Poona Pact replaced separate electorates for Depressed Classes (proposed in the Communal Award) with increased reserved seats within the general electorate."},
+{"q":"Who founded the 'Forward Bloc' in 1939 after resigning from the presidency of the Indian National Congress?","opts":["Jawaharlal Nehru","Subhas Chandra Bose","Jayaprakash Narayan","M.N. Roy"],"ans":1,"exp":"Subhas Chandra Bose resigned after the Tripuri Session (1939) and formed the All India Forward Bloc within the Congress."},
+{"q":"Who was chosen by Mahatma Gandhi as the FIRST Satyagrahi in the Individual Satyagraha of 1940?","opts":["Jawaharlal Nehru","Acharya Vinoba Bhave","Sardar Vallabhbhai Patel","C. Rajagopalachari"],"ans":1,"exp":"Acharya Vinoba Bhave was the first Individual Satyagrahi, followed by Jawaharlal Nehru as the second."},
+{"q":"Mahatma Gandhi described which British proposal of 1942 as a 'post-dated cheque drawn on a crashing bank'?","opts":["August Offer","Cripps Mission","Wavell Plan","Cabinet Mission Plan"],"ans":1,"exp":"The Cripps Mission (March 1942) offered Dominion Status after World War II, which Gandhi famously dismissed as a post-dated cheque."},
+{"q":"The 'Cabinet Mission' of 1946 was sent to India by British Prime Minister Clement Attlee. Who among the following was NOT a member of it?","opts":["Lord Pethick-Lawrence","Sir Stafford Cripps","A.V. Alexander","Lord Mountbatten"],"ans":3,"exp":"The three members of the Cabinet Mission (1946) were Pethick-Lawrence, Stafford Cripps, and A.V. Alexander. Mountbatten came later in 1947 as Viceroy."},
+{"q":"The 'Royal Indian Navy (RIN) Mutiny' of February 1946 began aboard which naval ship in Bombay?","opts":["HMIS Talwar","HMIS Vikrant","HMIS Hindustan","HMIS Akbar"],"ans":0,"exp":"The RIN Ratings Revolt began on 18 February 1946 on HMIS Talwar in Bombay over racial discrimination and poor food conditions."}
+]
