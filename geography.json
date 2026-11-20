@@ -1,0 +1,172 @@
+[
+  {
+    "q": "The Tropic of Cancer (23.5° N) passes through how many Indian states?",
+    "opts": ["6", "7", "8", "9"],
+    "ans": 2,
+    "exp": "It passes through 8 states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram."
+  },
+  {
+    "q": "The Indian Standard Time (IST) meridian (82.5° E) passes through which of the following states?",
+    "opts": ["UP, MP, Chhattisgarh, Odisha, Andhra Pradesh", "UP, Bihar, Jharkhand, Odisha, Telangana", "UP, MP, Jharkhand, West Bengal, Odisha", "Uttarakhand, UP, MP, Chhattisgarh, Tamil Nadu"],
+    "ans": 0,
+    "exp": "The 82°30' E longitude passes through 5 states: Uttar Pradesh (Mirzapur), Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh."
+  },
+  {
+    "q": "Which of the following channels separates the Andaman Islands from the Nicobar Islands?",
+    "opts": ["Eight Degree Channel", "Nine Degree Channel", "Ten Degree Channel", "Duncan Passage"],
+    "ans": 2,
+    "exp": "The Ten Degree Channel (10° N latitude) separates Little Andaman from Car Nicobar."
+  },
+  {
+    "q": "Which mountain pass connects Srinagar with Leh in Ladakh?",
+    "opts": ["Rohtang Pass", "Zoji La", "Nathu La", "Shipki La"],
+    "ans": 1,
+    "exp": "Zoji La is a high mountain pass in the Himalayas located in the Kargil district of Ladakh, connecting Kashmir Valley with Dras and Leh."
+  },
+  {
+    "q": "What is the highest peak of Peninsular India (Western Ghats)?",
+    "opts": ["Doddabetta", "Anamudi", "Mahendragiri", "Guru Shikhar"],
+    "ans": 1,
+    "exp": "Anamudi (2,695 m) in Kerala's Anaimalai Hills is the highest peak in the Western Ghats and Peninsular India."
+  },
+  {
+    "q": "The Western Ghats and the Eastern Ghats meet at which hill range?",
+    "opts": ["Cardamom Hills", "Palani Hills", "Nilgiri Hills", "Javadi Hills"],
+    "ans": 2,
+    "exp": "The Nilgiri Hills (Blue Mountains) form the junction where the Eastern Ghats and Western Ghats converge."
+  },
+  {
+    "q": "Which of the following rivers flows through a rift valley between the Vindhya and Satpura ranges?",
+    "opts": ["Godavari", "Narmada", "Mahanadi", "Kaveri"],
+    "ans": 1,
+    "exp": "The Narmada flows westward through a structural rift valley between the Vindhyan range in the north and Satpura range in the south."
+  },
+  {
+    "q": "Which river is known as the 'Tsangpo' in Tibet and 'Dihang' in Arunachal Pradesh?",
+    "opts": ["Indus", "Sutlej", "Brahmaputra", "Teesta"],
+    "ans": 2,
+    "exp": "The Brahmaputra originates near Lake Mansarovar as Yarlung Tsangpo, enters India as Siang/Dihang, and becomes Brahmaputra in Assam."
+  },
+  {
+    "q": "Majuli, the world's largest inhabited riverine island, is located in which river?",
+    "opts": ["Ganga", "Brahmaputra", "Godavari", "Indus"],
+    "ans": 1,
+    "exp": "Majuli is a large river island in the Brahmaputra river in Assam and was India's first island district."
+  },
+  {
+    "q": "At which confluence do the Alaknanda and Bhagirathi rivers meet to form the Ganga?",
+    "opts": ["Vishnuprayag", "Karnaprayag", "Rudraprayag", "Devprayag"],
+    "ans": 3,
+    "exp": "At Devprayag in Uttarakhand, the Bhagirathi and Alaknanda rivers merge to form the Ganga."
+  },
+  {
+    "q": "Which of the following is the ONLY major river of the Indian desert (Thar) that drains into the Rann of Kutch?",
+    "opts": ["Sabarmati", "Mahi", "Luni", "Banas"],
+    "ans": 2,
+    "exp": "The Luni River originates near Pushkar in the Aravallis and is an ephemeral, inland-drainage river ending in the marshy Rann of Kutch."
+  },
+  {
+    "q": "Which river in India crosses the Tropic of Cancer TWICE?",
+    "opts": ["Narmada", "Mahi", "Chambal", "Son"],
+    "ans": 1,
+    "exp": "The Mahi River originates in Madhya Pradesh, flows north into Rajasthan, and turns southwest into Gujarat, crossing the Tropic of Cancer twice."
+  },
+  {
+    "q": "Loktak Lake, famous for its floating 'Phumdis' and Keibul Lamjao National Park, is located in:",
+    "opts": ["Assam", "Manipur", "Mizoram", "Meghalaya"],
+    "ans": 1,
+    "exp": "Loktak Lake is the largest freshwater lake in Northeast India, located in Manipur, and hosts the world's only floating national park."
+  },
+  {
+    "q": "Which type of soil in India is formed by the weathering of Deccan Trap basaltic lava and is self-ploughing in nature?",
+    "opts": ["Alluvial soil", "Red and Yellow soil", "Black (Regur) soil", "Laterite soil"],
+    "ans": 2,
+    "exp": "Black (Regur) soil is rich in clay, swells when wet, and develops deep cracks when dry, giving it a 'self-ploughing' character."
+  },
+  {
+    "q": "Laterite soils in India are primarily formed under conditions of:",
+    "opts": ["Low rainfall and low temperature", "High temperature and heavy rainfall with intense leaching", "Glacial erosion in high Himalayas", "Arid wind deposition"],
+    "ans": 1,
+    "exp": "Intense leaching due to heavy tropical rainfall washes away lime and silica, leaving behind iron oxide and aluminium-rich laterite soil."
+  },
+  {
+    "q": "Which region of India receives the majority of its annual rainfall from the Retreating (Northeast) Monsoon during October–December?",
+    "opts": ["Malabar Coast", "Konkan Coast", "Coromandel Coast (Tamil Nadu)", "Kathiawar Peninsula"],
+    "ans": 2,
+    "exp": "The Coromandel Coast lies in the rain-shadow of the Southwest Monsoon and receives heavy rainfall from the Northeast Monsoon picking up moisture over the Bay of Bengal."
+  },
+  {
+    "q": "'Western Disturbances', which bring winter rainfall to Northwest India (beneficial for Rabi crops), originate over the:",
+    "opts": ["Bay of Bengal", "Arabian Sea", "Mediterranean Sea", "South China Sea"],
+    "ans": 2,
+    "exp": "Western Disturbances are extratropical storms originating in the Mediterranean region and carried eastward into India by the subtropical westerly jet stream."
+  },
+  {
+    "q": "What is the 'El Nino' phenomenon associated with?",
+    "opts": ["Abnormal cooling of the Eastern Pacific Ocean", "Abnormal warming of surface waters in the Central and Eastern Pacific Ocean", "Reversal of Arctic Ocean currents", "Strengthening of the Indian Ocean Dipole"],
+    "ans": 1,
+    "exp": "El Nino involves unusual warming of the eastern tropical Pacific off Peru, which generally weakens the Indian Southwest Monsoon."
+  },
+  {
+    "q": "The 'Roaring Forties', 'Furious Fifties', and 'Shrieking Sixties' refer to:",
+    "opts": ["Tropical cyclones in the Pacific", "Strong westerly winds in the Southern Hemisphere", "Polar easterly winds in the Arctic", "Ocean currents near the Equator"],
+    "ans": 1,
+    "exp": "Due to the lack of large landmasses in the Southern Hemisphere between 40°S and 60°S, westerly winds blow with tremendous speed."
+  },
+  {
+    "q": "Which layer of the Earth's atmosphere contains the Ozone Layer that absorbs harmful UV radiation?",
+    "opts": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "ans": 1,
+    "exp": "The Stratosphere (roughly 15–50 km altitude) contains the ozone layer, which causes temperature to increase with height in this layer."
+  },
+  {
+    "q": "The 'Coriolis Force', which deflects winds to the right in the Northern Hemisphere and left in the Southern Hemisphere, is caused by:",
+    "opts": ["Earth's revolution around the Sun", "Earth's rotation on its axis", "Gravitational pull of the Moon", "Uneven heating of land and sea"],
+    "ans": 1,
+    "exp": "Earth's rotation produces the Coriolis effect; it is zero at the Equator and maximum at the Poles."
+  },
+  {
+    "q": "Which of the following is a COLD ocean current?",
+    "opts": ["Gulf Stream", "Kuroshio Current", "Humboldt (Peru) Current", "Agulhas Current"],
+    "ans": 2,
+    "exp": "The Humboldt (Peru) Current is a cold, low-salinity ocean current flowing north along the western coast of South America."
+  },
+  {
+    "q": "The 'Ring of Fire', known for frequent earthquakes and volcanic eruptions, surrounds which ocean?",
+    "opts": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "ans": 2,
+    "exp": "The Circum-Pacific Belt ('Ring of Fire') is a horseshoe-shaped zone of active tectonic plate subduction around the Pacific Ocean."
+  },
+  {
+    "q": "Which strait connects the Red Sea with the Gulf of Aden (and the Indian Ocean)?",
+    "opts": ["Strait of Hormuz", "Bab el-Mandeb", "Strait of Malacca", "Strait of Gibraltar"],
+    "ans": 1,
+    "exp": "The Bab el-Mandeb Strait lies between Yemen (Arabian Peninsula) and Djibouti/Eritrea (Horn of Africa), linking the Red Sea to the Gulf of Aden."
+  },
+  {
+    "q": "The 'Strait of Hormuz', a critical global oil chokepoint, connects the Persian Gulf with the:",
+    "opts": ["Red Sea", "Gulf of Oman", "Mediterranean Sea", "Black Sea"],
+    "ans": 1,
+    "exp": "The Strait of Hormuz lies between Iran and Oman/UAE, connecting the Persian Gulf to the Gulf of Oman and the Arabian Sea."
+  },
+  {
+    "q": "Which is the ONLY active volcano in India?",
+    "opts": ["Narcondam Island", "Barren Island", "Baratang Island", "Minicoy Island"],
+    "ans": 1,
+    "exp": "Barren Island, located in the Andaman Sea, is the only confirmed active volcano in South Asia."
+  },
+  {
+    "q": "The 'Karewa' formations, famous for the cultivation of Zafran (Saffron), are found in:",
+    "opts": ["Kangra Valley", "Kashmir Valley", "Kullu Valley", "Araku Valley"],
+    "ans": 1,
+    "exp": "Karewas are lacustrine (lake-bed) deposits of clay, silt, and sand found in the Kashmir Valley, ideal for saffron, almonds, and apples."
+  },
+  {
+    "q": "Which Indian state has the longest coastline?",
+    "opts": ["Maharashtra", "Andhra Pradesh", "Tamil Nadu", "Gujarat"],
+    "ans": 3,
+    "exp": "Gujarat has the longest coastline among Indian states (~1,214 km), followed by Andhra Pradesh and Tamil Nadu."
+  },
+  {
+    "q": "The 'Chota Nagpur Plateau' is famously known as the 'Ruhr of India' because of its rich deposits of:",
+    "opts": ["
